@@ -43,7 +43,7 @@ RoadMapHistory/
 
 ## Ist-Zustand (05.09.2026)
 - ✅ Sechs Forschungs-/Dokumentationsberichte (`docs/01–06`; docs/02 mit Regionaldossier Jordanien & Golf)
-- ✅ Interaktive Roadmap (`roadmap/`): phases.json (**41 Events, 20 Kern, 7 wörtliche Primärzitate**) + debunks.json (17 Faktencheck-Einträge) + index.html (Tabs, Suche, Filter-Chips mit Live-Trefferzählern, ⭐Kern-Modus, Timeline-Spine mit Phasen-Nodes, Evidence-Modal mit 📋Zitat-Kopieren + Toast, Print-Styles, Export, Offline-Fallback)
+- ✅ Interaktive Roadmap (`roadmap/`): phases.json (**41 Events, 20 Kern, Dossier-Modell: goal + deep_analysis für alle 41, 19 wörtliche Zitate, 38 verifizierte Direktlinks**) + debunks.json (17 Faktencheck-Einträge) + index.html (Tabs, Suche, Filter-Chips mit Live-Trefferzählern, ⭐Kern-Modus, Timeline-Spine, Dossier-Lesemodus im Modal: Goal-Banner, Historische Analyse, Evidence-Vault mit Zitat-Karten + 📋Kopie, klickbare Quellen-Karten ↗, Print-Styles, Export, Offline-Fallback)
 - ✅ Multi-Agenten-Peer-Review (09/2026): 4 Blind-Audits (Alpha Lücken / Beta Fakten / Gamma Tech / Delta UI) + Epsilon-Konsens-Arbiter — Profile, Ballots und `consensus_patch_plan.md` in `agents/`; Beschlüsse vollständig umgesetzt
 - ✅ Welcome-Page (Intro-Overlay): Mission, Bildungszweck, 4 Methodik-Leitplanken (Tier-Badges T1–T3) + Bedienungsanleitung; First-Visit-Logik via localStorage (`seenWelcome`), Header-Button „ℹ Über dieses Archiv", Escape-/Fokus-Handling, responsiv
 - ✅ Verifikations-Pipeline **54/54 abgeschlossen**: 9 belegt · 26 belegt-mit-Korrektur · 2 Doppelungen zusammengeführt · 17 verworfen

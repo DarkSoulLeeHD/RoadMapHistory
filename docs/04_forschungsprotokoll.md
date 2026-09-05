@@ -20,6 +20,7 @@ Kompletter Arbeitsbericht der Session: was wurde recherchiert, verifiziert, doku
 | 12 | Sprint 3 „Evidence-Vault" | 7 wörtliche Primärzitate (Primärtext-Retrieval: Jabotinsky-PDF, UNGA-181-UNISPAL, UNSC-242/478-Volltext, IGH-AO-PDF, Steinsaltz-Ketubot, Basler Programm) in phases.json · 5 neue Events e28–e32 · docs/05-Anker · UI: Evidence-Blockquote + Zitat-Kopieren + Print-CSS |
 | 13 | Sprint 4 „Multi-Agenten-Peer-Review" | agents/-System (5 Profile) · 4 Blind-Audits auf DeepSeek V4 Pro (Alpha/Beta/Gamma/Delta; Beta/Gamma mit Timeout → Ballot-Rekonstruktion aus Transkripten + Parent-Verifikation) · Epsilon-Konsens (consensus_patch_plan.md) · Umsetzung: 2 Beta-Vetos, 7 Beta-Folgekorrekturen, 9 Alpha-Events e33–e41 (41 Events/20 Kern), Delta-UI-Upgrades (Spine/Zähler/Toast/Touch), docs/01 §E #innerjuedische-kritik · Build + Systemtests grün |
 | 14 | Sprint 5 „Welcome-Page" | Intro-Overlay (Mission/Bildungszweck/Leitplanken/How-To) · First-Visit localStorage `seenWelcome` · ℹ-Header-Button · Escape/Fokus/Scroll-Lock · responsive · Print aus · Build + alle Tests grün |
+| 15 | Sprint 6 „Dossier-Ausbau" | Datenmodell v1.1: goal 41/41 · deep_analysis 41/41 (~6.900 Wörter) · extended_quotes 12 Events (Primärtext-verifiziert) · direct_url 38 (5 tote URLs ersetzt, finale Prüfung 38/38 OK) · UI-Dossier-Lesemodus (Goal-Banner, Analyse-Absätze, Zitat-Karten + Kopie, Quellen-Karten ↗) · Build + Systemtests grün |
 
 ## 2. Verifizierte Primärquellen (Retrieval dieser Session, Auswahl)
 
@@ -67,6 +68,7 @@ Morris (2001/2004/2008) · Khalidi (1992) · Shlaim (2000/2023) · Oren (2002) �
 11. UI-Endreview im Browser (Modal-Interaktion, Kopierfunktion, Druckansicht testen; = Gamma G-07/G-08) — offen
 12. Sprint 4 Multi-Agenten-Peer-Review — **erledigt** (4 Blind-Audits + Epsilon-Konsens; 9 Events e33–e41; 20 Kern; UI-Upgrades; alle Tests grün)
 13. Sprint 5 Welcome-Page — **erledigt** (Intro-Overlay, First-Visit-Logik, ℹ-Button, alle Tests grün)
+14. Sprint 6 Dossier-Ausbau — **erledigt** (goal/deep_analysis 41/41, 19 Zitate, 38 Direktlinks geprüft, Dossier-UI; alle Tests grün)
 
 ## 7. Methodische Standards (verbindlich, vgl. Soul.md)
 - Keine Fakten ohne Quellenbeleg; `[unverified]`/`[Zahlen variieren]` bei Unsicherheit
