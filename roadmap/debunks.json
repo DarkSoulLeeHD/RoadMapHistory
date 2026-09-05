@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "project": "RoadMapHistory",
+    "title": "Cluster-D-Faktencheck: 17 verworfenen Social-Media-Behauptungen",
+    "source": "Instagram-Liste @GEO_BRIEF (54 Einträge 1937–2025), transkribiert 05.09.2026",
+    "verdicts": {
+      "Widerlegt": "Behauptung aktiv widerlegt (Gegenteil dokumentiert)",
+      "Nicht belegt": "Keine Primär-/Standardquellen-Basis",
+      "Täter-Opfer-Umkehr": "Opfer-/Täterrollen verdreht"
+    },
+    "doku": "docs/06_cluster_d_faktencheck.md"
+  },
+  "debunks": [
+    {
+      "id": "D01",
+      "claim_original_id": "M02",
+      "claim_title": "Jerusalem Massacre 1937",
+      "claimed_year": "1937",
+      "verdict": "Nicht belegt",
+      "real_history": "Kein eigenständig belegtes Ereignis; dokumentiert ist nur die Irgun-Bombenserie auf arabische Zivilisten 1936–39 (Märkte/Busse).",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, Righteous Victims",
+          "doc_id": "2001"
+        },
+        {
+          "name": "Bell, Terror out of Zion",
+          "doc_id": "1977"
+        }
+      ]
+    },
+    {
+      "id": "D02",
+      "claim_original_id": "M05",
+      "claim_title": "Haifa Massacre 1939",
+      "claimed_year": "1939",
+      "verdict": "Nicht belegt",
+      "real_history": "Kein dokumentiertes Massaker in Haifa 1939; Einzeljahr ohne Quellenbasis (Epochen-Phänomen: Irgun-Bombenkampagne 1936–39).",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, Righteous Victims",
+          "doc_id": "2001"
+        }
+      ]
+    },
+    {
+      "id": "D03",
+      "claim_original_id": "M07",
+      "claim_title": "Abbasiya Massacre 1947",
+      "claimed_year": "1947",
+      "verdict": "Nicht belegt",
+      "real_history": "al-Abbasiyya (bei Jaffa) wird in der Massaker-Literatur (Morris, Khalidi) nicht als Massaker 1947 geführt.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Khalidi, All That Remains",
+          "doc_id": "1992"
+        }
+      ]
+    },
+    {
+      "id": "D04",
+      "claim_original_id": "M09",
+      "claim_title": "Bab Al Amud Massacre 1947",
+      "claimed_year": "1947",
+      "verdict": "Nicht belegt",
+      "real_history": "Für 1947 ist kein Massaker am Damaskustor (Bab al-Amud) dokumentiert.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        }
+      ]
+    },
+    {
+      "id": "D05",
+      "claim_original_id": "M10",
+      "claim_title": "Jerusalem Massacre 1947",
+      "claimed_year": "1947",
+      "verdict": "Nicht belegt",
+      "real_history": "Unspezifisch, keine Belegbasis. Dokumentierte Jerusalemer Vorfälle mit jüdischen Opfern: Hadassah-Konvoi (13.4.1948, 79 Tote).",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        }
+      ]
+    },
+    {
+      "id": "D06",
+      "claim_original_id": "M11",
+      "claim_title": "Sheikh Burek Massacre 1947",
+      "claimed_year": "1947",
+      "verdict": "Nicht belegt",
+      "real_history": "Ortsname nicht zuordenbar (Sheikh Abreik?); in der Massaker-Literatur nicht auffindbar.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        },
+        {
+          "name": "Khalidi, All That Remains",
+          "doc_id": "1992"
+        }
+      ]
+    },
+    {
+      "id": "D07",
+      "claim_original_id": "M12",
+      "claim_title": "Al-Sheikh Massacre 1947",
+      "claimed_year": "1947",
+      "verdict": "Nicht belegt",
+      "real_history": "Verstümmelter/duplizierter Eintrag; kein Ereignis zuordenbar.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        }
+      ]
+    },
+    {
+      "id": "D08",
+      "claim_original_id": "M14",
+      "claim_title": "Al Saraya Al Arabeya Massacre 1948",
+      "claimed_year": "1948",
+      "verdict": "Nicht belegt",
+      "real_history": "Nicht zuordenbar (Saraya-Gebäude?); kein dokumentiertes Massaker dieses Namens.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        }
+      ]
+    },
+    {
+      "id": "D09",
+      "claim_original_id": "M17",
+      "claim_title": "Yazur Massacre 1948",
+      "claimed_year": "1948",
+      "verdict": "Nicht belegt",
+      "real_history": "Yazur (bei Jaffa) wurde April/Mai 1948 im Zuge der Eroberung geräumt/zerstört; ein Massaker ist nicht etabliert.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Khalidi, All That Remains",
+          "doc_id": "1992"
+        }
+      ]
+    },
+    {
+      "id": "D10",
+      "claim_original_id": "M18",
+      "claim_title": "Tabul Tulkarem Massacre 1948",
+      "claimed_year": "1948",
+      "verdict": "Nicht belegt",
+      "real_history": "Ortsname verzerrt; für Tulkarem ist kein Massaker 1948 dokumentiert.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        },
+        {
+          "name": "Khalidi, All That Remains",
+          "doc_id": "1992"
+        }
+      ]
+    },
+    {
+      "id": "D11",
+      "claim_original_id": "M19",
+      "claim_title": "Jerusalem Massacre 1948",
+      "claimed_year": "1948",
+      "verdict": "Nicht belegt",
+      "real_history": "Unspezifischer Sammelposten. Dokumentierte Jerusalemer Vorfälle 1948 separat geführt: Semiramis (5.1.1948), Deir Yassin (9.4.1948); jüdische Opfer: Hadassah-Konvoi (13.4.1948).",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        }
+      ]
+    },
+    {
+      "id": "D12",
+      "claim_original_id": "M26",
+      "claim_title": "Al-Husayniya Massacre 1948",
+      "claimed_year": "1948",
+      "verdict": "Nicht belegt",
+      "real_history": "Kein dokumentiertes Massaker in al-Husayniyya in der Standardliteratur.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        },
+        {
+          "name": "Khalidi, All That Remains",
+          "doc_id": "1992"
+        }
+      ]
+    },
+    {
+      "id": "D13",
+      "claim_original_id": "M27",
+      "claim_title": "Abu Kabir Massacre 1948",
+      "claimed_year": "1948",
+      "verdict": "Nicht belegt",
+      "real_history": "Abu Kabir (Jaffa-Vorort) erscheint nicht in den dokumentierten Massaker-Listen.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        }
+      ]
+    },
+    {
+      "id": "D14",
+      "claim_original_id": "M28",
+      "claim_title": "Cairo Train Massacre, Haifa 1948",
+      "claimed_year": "1948",
+      "verdict": "Nicht belegt",
+      "real_history": "Kein dokumentierter Zug-Angriff in Haifa 1948 in Primär-/Standardliteratur; vermutete Verwechslung.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        }
+      ]
+    },
+    {
+      "id": "D15",
+      "claim_original_id": "M29",
+      "claim_title": "Qalunya Massacre 1948",
+      "claimed_year": "1948",
+      "verdict": "Widerlegt",
+      "real_history": "Als Massaker widerlegt: dokumentiert ist die Einnahme/Zerstörung von Qalunya (Kolonia) im Kontext der Operation Nachschon (April 1948) ohne Massaker-Belege.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Morris, 1948",
+          "doc_id": "2008"
+        },
+        {
+          "name": "Khalidi, All That Remains",
+          "doc_id": "1992"
+        }
+      ]
+    },
+    {
+      "id": "D16",
+      "claim_original_id": "M35",
+      "claim_title": "Beit Daras Massacre 1948",
+      "claimed_year": "1948",
+      "verdict": "Nicht belegt",
+      "real_history": "Beit Daras (bei Gaza) wurde Mai 1948 militärisch geräumt/zerstört; ein Massaker ist nicht etabliert.",
+      "tier": [
+        "T2"
+      ],
+      "sources": [
+        {
+          "name": "Khalidi, All That Remains",
+          "doc_id": "1992"
+        }
+      ]
+    },
+    {
+      "id": "D17",
+      "claim_original_id": "M38",
+      "claim_title": "Jerusalem Massacre 1967",
+      "claimed_year": "1967",
+      "verdict": "Widerlegt",
+      "real_history": "Kein Massaker belegt; Gegenteil dokumentiert: Eroberung der Altstadt (5.–7.6.1967), anschließender Abriss des Mughrabi-Viertels (Juni 1967, ~650 Bewohner umgesiedelt; GPO-Luftbild 12.6.1967).",
+      "tier": [
+        "T2",
+        "T3"
+      ],
+      "sources": [
+        {
+          "name": "GPO-Fotoarchiv (Luftbild Mughrabi-Viertel)",
+          "doc_id": "12.6.1967"
+        },
+        {
+          "name": "Al-Monitor/RFI",
+          "doc_id": "2023"
+        }
+      ]
+    }
+  ]
+}

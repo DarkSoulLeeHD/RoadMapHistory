@@ -1,0 +1,1113 @@
+{
+ "meta": {
+  "project": "RoadMapHistory",
+  "title": "Interaktive Chronologie Zionismus & Nahostkonflikt",
+  "version": "1.0",
+  "stand": "2026-09-05",
+  "methodik": "Zero-Hallucination · Tiers T1=Primärquelle T2=Standardwerk T3=Institution · Zahlen mit Quellenspanne",
+  "phases": [
+   "I (1880–1917)",
+   "II (1917–1948)",
+   "III (1948–1967)",
+   "IV (1967–1993)",
+   "V (1993–2023)",
+   "VI (2023–heute)"
+  ],
+  "clusters": {
+   "A": "Ursprung & Ideologiegeschichte",
+   "B": "Staatsgründung & regionale Dimension",
+   "C": "Strukturen: Doktrinen, Sicherheitsapparat, Völkerrecht",
+   "D": "Fact-Checking & Abgrenzung"
+  }
+ },
+ "events": [
+  {
+   "id": "e33",
+   "date": "16.–19.11.1885",
+   "phase": "I",
+   "cluster": "A",
+   "core": false,
+   "title": "Pittsburgh-Plattform: Reformjudentum gegen den Nationalismus",
+   "actors": "Konferenz des amerikanischen Reformjudentums (Kaufmann Kohler u. a.)",
+   "summary": "Acht-Punkte-Programm: „Wir betrachten uns nicht länger als Nation, sondern als religiöse Gemeinschaft und erwarten daher weder eine Rückkehr nach Palästina… noch die Wiederherstellung eines jüdischen Staates.“",
+   "consequence": "Erste organisierte innerjüdische Gegenposition zum politischen Zionismus; Wende erst mit der Columbus-Plattform (1937) und der Schoa.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Pittsburgh Platform (1885)",
+     "doc_id": "Text (myjewishlearning.com / posenlibrary.com)"
+    },
+    {
+     "name": "Laqueur, A History of Zionism",
+     "doc_id": "2003"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md#innerjuedische-kritik"
+  },
+  {
+   "id": "e01",
+   "date": "29.–31.8.1897",
+   "phase": "I",
+   "cluster": "A",
+   "core": true,
+   "title": "Erster Zionistenkongress, Basel — Gründung der WZO",
+   "actors": "Theodor Herzl, Max Nordau, ~200 Delegierte",
+   "summary": "Basler Programm: Schaffung einer öffentlich-rechtlich gesicherten Heimstätte in Palästina; Institutionalisierung des politischen Zionismus.",
+   "consequence": "Diplomatischer Staatsbildungsweg beginnt; zentrale Charta der Bewegung.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Stenographische Protokolle der Zionistenkongresse 1897–1937",
+     "doc_id": "UB Frankfurt/Compact Memory",
+     "url": "https://sammlungen.ub.uni-frankfurt.de/cm/periodical/titleinfo/3476254"
+    },
+    {
+     "name": "Basler Programm",
+     "doc_id": "Wikisource"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. A)",
+   "primary_quote": {
+    "text": "Zionism strives to create for the Jewish people a home in Palestine secured by public law.",
+    "author_or_source": "Basler Programm, Erster Zionistenkongress Basel, 29.–31.8.1897 (engl. Fassung; Wikisource/FCO-Kompilation). Original deutsch: „Der Zionismus erstrebt die Schaffung einer öffentlich-rechtlich gesicherten Heimstätte in Palästina…“",
+    "context": "Zielformel des politischen Zionismus, auf Herzls Initiative verabschiedet",
+    "original_language": "englische Übersetzung (Original: deutsch)"
+   }
+  },
+  {
+   "id": "e29",
+   "date": "Talmud bT Ketubot 111a (Rezeption ab 1897)",
+   "phase": "I",
+   "cluster": "A",
+   "core": false,
+   "title": "Drei Schwüre — talmudische Grundlage der anti-zionistischen Orthodoxie",
+   "actors": "R. Yosei bar Hanina (Talmud); Rezeption: R. Sonnenfeld, R. E. Wasserman, R. J. Teitelbaum (VaYoel Moshe 1961)",
+   "summary": "Drei Schwüre: kein Hinaufziehen nach Eretz Israel wie eine Mauer, kein Aufstand gegen die Völker, keine übermäßige Unterdrückung durch die Völker — Verbot der erzwungenen Vorwegnahme der messianischen Erlösung.",
+   "consequence": "Theologische Grundlage der Ablehnung des politischen Zionismus (Agudat Jisrael, Edah HaCharedit, Satmar, Neturei Karta).",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Ketubot 111a-b: Oaths That Bind",
+     "doc_id": "Erläuterung R. Adin Steinsaltz",
+     "url": "https://steinsaltz.org/daf/ketubot111/"
+    },
+    {
+     "name": "VaYoel Moshe (1961)",
+     "doc_id": "Joel Teitelbaum — Einführung",
+     "url": "https://www.torahjews.org/vayoel-moshe"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. C)",
+   "primary_quote": {
+    "text": "Rabbi Yosei bar Hanina understands that there are three oaths that bind the Jewish people in their relationship with the non-Jewish world: That the Jews should not return to the Land of Israel be-homah – like a wall; That the Jews should not rebel against the nations of the world; That the nations of the world should not oppress the Jewish people overmuch.",
+    "author_or_source": "Babylonischer Talmud, Ketubot 111a (Erläuterung R. Adin Steinsaltz, steinsaltz.org/daf/ketubot111/)",
+    "context": "Rashi deutet den ersten Schwur: keine Rückkehr nach Israel mit Gewalt/insgesamt vor der göttlichen Erlösung",
+    "original_language": "englische Übersetzung (Original: aramäisch/hebräisch)"
+   }
+  },
+  {
+   "id": "e34",
+   "date": "Oktober 1897",
+   "phase": "I",
+   "cluster": "A",
+   "core": false,
+   "title": "Gründung des Jüdischen Arbeiterbunds (Bund) in Wilna — „Doikayt“",
+   "actors": "Jüdische Arbeiterführer in Wilna (u. a. Arkadi Kremer, Wladimir Medem)",
+   "summary": "Säkulare, sozialistische Massenbewegung; programmatische „Doikayt“ (hier-ness): jüdische Autonomie in Osteuropa statt territorialer Staatsbildung in Palästina.",
+   "consequence": "Stärkste nicht-zionistische jüdische Bewegung bis zur Schoa; dauerhafte Gegenposition zum politischen Zionismus.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Bund-Programm/Archiv",
+     "doc_id": "YIVO"
+    },
+    {
+     "name": "Pickhan, Gegen den Strom (Bund)",
+     "doc_id": "2001"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md#innerjuedische-kritik"
+  },
+  {
+   "id": "e02",
+   "date": "1903/1905",
+   "phase": "I",
+   "cluster": "A",
+   "core": true,
+   "title": "Uganda-Debatte: Territorialismus-Probe",
+   "actors": "Herzl (Notlösung), 6./7. Kongress, Israel Zangwill (Abspaltung)",
+   "summary": "Angebot Ostafrikas (1903) als zeitweilige Zuflucht; 7. Kongress (1905) lehnt Territorialismus ab.",
+   "consequence": "Fixierung auf Palästina als einziges Ziel; Gründung der Jewish Territorial Organization.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Kongress-Protokolle 6./7. Kongress",
+     "doc_id": "Compact Memory"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. A)"
+  },
+  {
+   "id": "e03",
+   "date": "2.11.1917",
+   "phase": "I",
+   "cluster": "A",
+   "core": true,
+   "title": "Balfour-Deklaration",
+   "actors": "A. J. Balfour → Lord Rothschild; Chaim Weizmann",
+   "summary": "Britische Zusage einer nationalen Heimstätte für das jüdische Volk in Palästina.",
+   "consequence": "Imperialer Schutzbrief → Völkerbundsmandat 1922; Legitimationsanker des Zionismus.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Balfour Declaration",
+     "doc_id": "UNISPAL",
+     "url": "https://www.un.org/unispal/document/auto-insert-193242/"
+    },
+    {
+     "name": "War Cabinet Records",
+     "doc_id": "TNA CAB 21/58",
+     "url": "https://images.nationalarchives.gov.uk/asset/51191/"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. A)"
+  },
+  {
+   "id": "e04",
+   "date": "24.7.1922",
+   "phase": "II",
+   "cluster": "A",
+   "core": true,
+   "title": "Völkerbundsmandat für Palästina",
+   "actors": "Völkerbundrat; britische Mandatsmacht",
+   "summary": "Mandatsurkunde (bestätigt 24.7.1922; in Kraft 29.9.1923): Jewish national home; Art. 25: Transjordanien-Ausnahme.",
+   "consequence": "Völkerrechtlicher Rahmen der Heimstätten-Politik; Abtrennung Transjordaniens (Emirat 1946).",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Mandate for Palestine",
+     "doc_id": "UN Digital Library",
+     "url": "https://digitallibrary.un.org/record/829707"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. A)"
+  },
+  {
+   "id": "e28",
+   "date": "4.11.1923",
+   "phase": "II",
+   "cluster": "A",
+   "core": false,
+   "title": "Jabotinsky: The Iron Wall (Rassvet) — revisionistische Doktrin",
+   "actors": "Wladimir (Ze'ev) Jabotinsky",
+   "summary": "Keine freiwillige arabische Zustimmung zur Kolonisierung; Fortgang nur hinter einer eisernen Mauer militärischer Unbesiegbarkeit.",
+   "consequence": "Gründungstext der revisionistischen Sicherheitsdoktrin; prägt bis heute die Likud-Strategie (vgl. docs/01).",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "The Iron Wall (We and the Arabs)",
+     "doc_id": "Rassvet, 4.11.1923 — Jabotinsky Institute (PDF)",
+     "url": "https://en.jabotinsky.org/media/9747/the-iron-wall.pdf"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. A)",
+   "primary_quote": {
+    "text": "Zionist colonisation must either stop, or else proceed regardless of the native population. Which means that it can proceed and develop only under the protection of a power that is independent of the native population – behind an iron wall, which the native population cannot breach. That is our Arab policy…",
+    "author_or_source": "Ze'ev Jabotinsky, The Iron Wall (We and the Arabs), Rassvet, 4.11.1923 (Jabotinsky Institute, engl. Fassung)",
+    "context": "Antwort auf die Frage nach einer freiwilligen Verständigung mit den Arabern Palästinas",
+    "original_language": "englische Übersetzung (Original: russisch)"
+   }
+  },
+  {
+   "id": "e35",
+   "date": "1925",
+   "phase": "II",
+   "cluster": "A",
+   "core": false,
+   "title": "Brit Shalom: binationale Zwei-Nationen-Lösung (Buber, Magnes)",
+   "actors": "Martin Buber, Judah L. Magnes, Gershom Scholem, Henrietta Szold",
+   "summary": "Innerzionistische Gruppierung für einen binationalen Staat mit gleichen Rechten für Juden und Araber; Kritik an der nationalstaatlichen Mehrheitslogik und der „Eisernen Mauer“.",
+   "consequence": "Wichtigste intellektuelle Gegenstimme zum Mehrheitsnationalismus; marginalisiert, aber bleibende Referenz der israelischen Friedensbewegung.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Buber, A Land of Two Peoples",
+     "doc_id": "hg. P. Mendes-Flohr, 1983"
+    },
+    {
+     "name": "Magnes, Like All the Nations?",
+     "doc_id": "1930"
+    },
+    {
+     "name": "Shlaim, The Iron Wall",
+     "doc_id": "2000"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md#innerjuedische-kritik"
+  },
+  {
+   "id": "e05",
+   "date": "17.5.1939",
+   "phase": "II",
+   "cluster": "B",
+   "core": true,
+   "title": "Weißbuch von 1939 (Cmd 6019)",
+   "actors": "Britische Regierung (Malcolm MacDonald)",
+   "summary": "Einwanderungsdeckel (75.000/5 Jahre), Landverkaufsbeschränkungen, Unabhängigkeitskurs binnen 10 Jahren.",
+   "consequence": "Bruch Jischuw–Mandatsmacht; Alija Bet; Radikalisierung von Irgun/Lehi.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Palestine Statement of Policy",
+     "doc_id": "Cmd 6019 (UNISPAL)",
+     "url": "https://www.un.org/unispal/document/auto-insert-198767/"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md"
+  },
+  {
+   "id": "e06",
+   "date": "29.11.1947",
+   "phase": "II",
+   "cluster": "B",
+   "core": true,
+   "title": "UNGA 181 (II): Teilungsplan",
+   "actors": "UN-Generalversammlung; Jewish Agency vs. arabische Führung",
+   "summary": "Teilung in arabischen und jüdischen Staat mit Wirtschaftsunion; Jerusalem als corpus separatum.",
+   "consequence": "Ende des Mandats; 14.5.1948 Staatsgründung Israels; Nakba; erster arabisch-israelischer Krieg.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "GA-Res. 181 (II)",
+     "doc_id": "A/RES/181(II)",
+     "url": "https://www.un.org/unispal/document/auto-insert-185393/"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (1a)",
+   "primary_quote": {
+    "text": "The Mandate for Palestine shall terminate as soon as possible but in any case not later than 1 August 1948.",
+    "author_or_source": "UNGA Res. 181 (II), Teil I A.1 (29.11.1947), UNISPAL-Originaltext",
+    "context": "Teilungsplan: Ende des britischen Mandats und Gründung arabischer und jüdischer Staaten",
+    "original_language": "englisch"
+   }
+  },
+  {
+   "id": "e07",
+   "date": "1948/49",
+   "phase": "III",
+   "cluster": "B",
+   "core": true,
+   "title": "Krieg, Nakba und Waffenstillstand",
+   "actors": "Israel; arabische Staaten; ~700.000–750.000 Flüchtlinge/Vertriebene",
+   "summary": "Plan Dalet (10.3.1948); Massaker-Serie (Deir Yassin u. a.); Vertreibung/Flucht; Rhodos-Abkommen 1949.",
+   "consequence": "Israel ~78 % des Mandatsgebiets; kein Palästinenserstaat; UNRWA; Flüchtlingsfrage bis heute (GA 194).",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "GA-Res. 194 (III)",
+     "doc_id": "A/RES/194(III)",
+     "url": "https://www.palestineportal.org/wp-content/uploads/2016/10/UNGAresolution194_1948.pdf"
+    },
+    {
+     "name": "Plan Dalet (Text)",
+     "doc_id": "10.3.1948",
+     "url": "https://www.palquest.org/en/historictext/40626/text-plan-dalet-plan-d-general-section"
+    },
+    {
+     "name": "Morris",
+     "doc_id": "Birth of the Palestinian Refugee Problem Revisited (2004)"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (1a) · docs/03_klagekatalog_massaker.md"
+  },
+  {
+   "id": "e26",
+   "date": "1954–1988",
+   "phase": "IV",
+   "cluster": "C",
+   "core": false,
+   "title": "Dokumentierte Geheimdienstoperationen (Mossad/Shin Bet)",
+   "actors": "Mossad, AMAN, Shin Bet",
+   "summary": "Op. Susannah/Lavon-Affäre (1954); Eichmann-Entführung (11.5.1960; UNSC 138); Wrath of God/Bayonet inkl. Lillehammer (21.7.1973); Bus-300-Affäre (1984) → Landau-Kommission (1987) → HCJ 5100/94 (1999).",
+   "consequence": "Präzedenzfälle für die Debatte über gezielte Tötungen, Folterverbot und Kontrolle der Dienste.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Yad Vashem: Operation Eichmann",
+     "doc_id": "Exhibit",
+     "url": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/operation-eichmann.asp"
+    },
+    {
+     "name": "Israel MoD Archives: Lavon Affair",
+     "doc_id": "Exhibit",
+     "url": "https://archives.mod.gov.il/sites/English/Exhibitions/Pages/The-Lavon-affair.aspx"
+    }
+   ],
+   "doc_ref": "docs/05_cluster_c_sicherheitsapparat.md"
+  },
+  {
+   "id": "e08",
+   "date": "29.10.1956–März 1957",
+   "phase": "III",
+   "cluster": "B",
+   "core": true,
+   "title": "Suezkrise: Op. Kadesh & Sèvres-Protokoll",
+   "actors": "Israel; UK/Frankreich (Kollusion); Ägypten; USA/UdSSR",
+   "summary": "Geheimes Sèvres-Protokoll (22.–24.10.1956); Invasion nach Kanal-Verstaatlichung; UN-Notstandssession errichtet UNEF.",
+   "consequence": "Rückzug (März 1957); Nasser politischer Sieger; Ende der brit.-frz. Regionalmachtrolle.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "UNGA 997–1001 (ES-I)",
+     "doc_id": "UN Yearbook 1956",
+     "url": "https://cdn.un.org/unyearbook/yun/chapter_pdf/1956YUN/1956_P1_SEC1_CH1.pdf"
+    },
+    {
+     "name": "Shlaim, The Protocol of Sèvres",
+     "doc_id": "International Affairs, JSTOR",
+     "url": "https://www.jstor.org/stable/2624270"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (3)"
+  },
+  {
+   "id": "e09",
+   "date": "5.–10.6.1967",
+   "phase": "III",
+   "cluster": "B",
+   "core": true,
+   "title": "Sechstagekrieg und UNSC 242",
+   "actors": "Israel (Präemptivschlag); Ägypten, Syrien, Jordanien",
+   "summary": "Besetzung von Westjordanland, Ost-Jerusalem, Gaza, Sinai und Golan; UNSC 242: keine Gebietserwerbung durch Krieg.",
+   "consequence": "50+ Jahre Besatzung; Land-für-Frieden als Rahmen aller Folgeprozesse.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 242",
+     "doc_id": "S/RES/242 (1967)",
+     "url": "https://digitallibrary.un.org/record/90717"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (1b, 3, 4)",
+   "primary_quote": {
+    "text": "Emphasizing the inadmissibility of the acquisition of territory by war and the need to work for a just and lasting peace in which every State in the area can live in security,",
+    "author_or_source": "UNSC Res. 242 (1967), Präambel (22.11.1967), UN Digital Library record 90717",
+    "context": "Völkerrechtlicher Rahmen nach dem Sechstagekrieg; Grundlage der Land-für-Frieden-Formel",
+    "original_language": "englisch"
+   }
+  },
+  {
+   "id": "e13",
+   "date": "21.3.1968",
+   "phase": "IV",
+   "cluster": "B",
+   "core": false,
+   "title": "Schlacht von Karameh",
+   "actors": "Israel (IDF); Jordanien + PLO/Fatah",
+   "summary": "IDF-Razzia gegen Fatah-Basis; Israel: 28 Tote, ~90 Verwundete, ~17 gepanzerte Fahrzeuge; jordanisch-palästinensische Verluste ~100–250 [Zahlen variieren].",
+   "consequence": "Militärisch israelischer Teilerfolg, politisch Fatah-Siegessymbol → Rekrutierungswelle; Aufstieg Arafats.",
+   "tier": [
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Pollack, Arabs at War",
+     "doc_id": "2002"
+    },
+    {
+     "name": "Shlaim, The Iron Wall",
+     "doc_id": "2000"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md#karameh-1968"
+  },
+  {
+   "id": "e14",
+   "date": "9/1970–7/1971",
+   "phase": "IV",
+   "cluster": "B",
+   "core": false,
+   "title": "Schwarzer September (Jordanien)",
+   "actors": "König Hussein; PLO/Arafat; Syrien (Invasion ab 18.9.1970); USA/Israel (Abschreckung)",
+   "summary": "Bürgerkrieg Armee vs. Fedajin; Flugzeugentführungen (Dawson's Field); syrische ~200-Panzer-Invasion gestoppt.",
+   "consequence": "PLO-Vertreibung in den Libanon (Kairoer Abkommen 27.9.1970; Libanon-Abkommen 3.11.1969 als Basis); Vorbote des Libanonkriegs.",
+   "tier": [
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Shlaim, The Iron Wall",
+     "doc_id": "2000"
+    },
+    {
+     "name": "Pollack, Arabs at War",
+     "doc_id": "2002"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md#schwarzer-september"
+  },
+  {
+   "id": "e10",
+   "date": "6.–24.10.1973",
+   "phase": "IV",
+   "cluster": "B",
+   "core": true,
+   "title": "Oktoberkrieg und UNSC 338",
+   "actors": "Ägypten/Syrien; Israel; USA/UdSSR",
+   "summary": "Überraschungsangriff am Jom Kippur; Waffenruhe (UNSC 338, 22.10.1973); Ölembargo.",
+   "consequence": "Erschütterung der israelischen Sicherheitsdoktrin; Sadats Öffnung → Camp David.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 338",
+     "doc_id": "S/RES/338 (1973)",
+     "url": "https://peacemaker.un.org/sites/default/files/document/files/2024/05/scr33828197329.pdf"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (3, 4)"
+  },
+  {
+   "id": "e11",
+   "date": "17.9.1978 / 26.3.1979",
+   "phase": "IV",
+   "cluster": "B",
+   "core": true,
+   "title": "Camp David & israelisch-ägyptischer Friedensvertrag",
+   "actors": "Sadat, Begin, Carter",
+   "summary": "Rahmenabkommen (17.9.1978); Friedensvertrag (26.3.1979); Sinai-Rückzug bis 25.4.1982.",
+   "consequence": "Erster arabisch-israelischer Frieden; Ägypten aus Arabischer Liga suspendiert; Sadat ermordet (1981).",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Camp David Accords",
+     "doc_id": "State Dept (Archiv)",
+     "url": "https://2001-2009.state.gov/p/nea/rls/22578.htm"
+    },
+    {
+     "name": "Israel-Egypt Peace Treaty",
+     "doc_id": "26.3.1979 (MFA-Archiv)",
+     "url": "https://web.archive.org/web/20040811091446/http://www.mfa.gov.il/MFA/Peace+Process/Guide+to+the+Peace+Process/Israel-Egypt+Peace+Treaty"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (3)"
+  },
+  {
+   "id": "e36",
+   "date": "14.3.–13.6.1978",
+   "phase": "IV",
+   "cluster": "B",
+   "core": false,
+   "title": "Operation Litani: erste Libanon-Invasion und UNIFIL",
+   "actors": "Israel (IDF); PLO; UN-Sicherheitsrat",
+   "summary": "Vergeltungsinvasion Südlibanons nach dem Küstenstraßen-Massaker (11.3.1978); UNSC 425 fordert Rückzug, UNSC 426 errichtet UNIFIL.",
+   "consequence": "Israelischer Teilrückzug; de-facto-Sicherheitszone unter SLA/Haddad ab 1979; Beginn der 22-jährigen Libanon-Verstrickung.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 425 / 426",
+     "doc_id": "S/RES/425 (1978), S/RES/426 (UNIFIL)"
+    },
+    {
+     "name": "Shlaim, The Iron Wall",
+     "doc_id": "2000"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (Abschn. 2, Libanon)"
+  },
+  {
+   "id": "e30",
+   "date": "20.8.1980",
+   "phase": "IV",
+   "cluster": "C",
+   "core": false,
+   "title": "UNSC 478: Nichtigkeit des Jerusalem-Gesetzes",
+   "actors": "UN-Sicherheitsrat (14:0, US-Enthaltung); Knesset (Jerusalem-Gesetz 30.7.1980)",
+   "summary": "Jerusalem-Gesetz verletzt Völkerrecht und ändert den Status der Heiligen Stadt nicht; alle derartigen Maßnahmen sind null und void.",
+   "consequence": "Internationale Nicht-Anerkennung der Annexion Ost-Jerusalems; Botschaften in Tel Aviv; bis heute Referenz (vgl. US-Botschaftsverlegung 2018).",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "UNSC Res. 478 (1980)",
+     "doc_id": "S/RES/478 (1980) — Volltext (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/United_Nations_Security_Council_Resolution_478"
+    },
+    {
+     "name": "UNSC Res. 478",
+     "doc_id": "S/RES/478 (1980) — UN Digital Library record 25618",
+     "url": "https://digitallibrary.un.org/record/25618"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (1b, Ost-Jerusalem)",
+   "primary_quote": {
+    "text": "Determines that all legislative and administrative measures and actions taken by Israel, the occupying Power, which have altered or purport to alter the character and status of the Holy City of Jerusalem, and in particular the recent 'basic law' on Jerusalem, are null and void and must be rescinded forthwith;",
+    "author_or_source": "UNSC Res. 478 (1980), operativer Absatz 3 (20.8.1980)",
+    "context": "Reaktion auf das Jerusalem-Gesetz der Knesset vom 30.7.1980",
+    "original_language": "englisch"
+   }
+  },
+  {
+   "id": "e24",
+   "date": "7.6.1981 ff.",
+   "phase": "IV",
+   "cluster": "C",
+   "core": false,
+   "title": "Begin-Doktrin: Präventivschlag gegen Nuklearbedrohung",
+   "actors": "Israel (Begin); Irak (Osirak)",
+   "summary": "Zerstörung des irakischen Reaktors Osirak (Op. Opera); UNSC 487 verurteilt Angriff als klare Verletzung der UN-Charta (Verbot der Gewaltanwendung, Art. 2(4)); erneute Anwendung gegen Syrien (Al-Kibar, 6.9.2007).",
+   "consequence": "Doktrin der nuklearen Präemption; bis heute Referenz für Iran-Debatten.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 487",
+     "doc_id": "S/RES/487 (1981)",
+     "url": "https://digitallibrary.un.org/record/22225"
+    },
+    {
+     "name": "Cohen, The Worst-Kept Secret",
+     "doc_id": "2010"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. B, Militärdoktrinen)"
+  },
+  {
+   "id": "e38",
+   "date": "14.12.1981 / 17.12.1981",
+   "phase": "IV",
+   "cluster": "C",
+   "core": false,
+   "title": "Golan-Gesetz und UNSC 497: Annexion „null und nichtig“",
+   "actors": "Knesset (Golan-Gesetz 14.12.1981); UN-Sicherheitsrat (UNSC 497, 17.12.1981)",
+   "summary": "Israel wendet Recht und Verwaltung auf die besetzten Golanhöhen an; UNSC 497 erklärt die Maßnahme für „null and void and without international legal effect“.",
+   "consequence": "Internationale Nicht-Anerkennung der Annexion (Ausnahme: US 25.3.2019); jährliche UNGA-Bestätigung; bis heute völkerrechtlich offen.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Golan Heights Law",
+     "doc_id": "14.12.1981"
+    },
+    {
+     "name": "UNSC 497",
+     "doc_id": "S/RES/497 (17.12.1981)"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (Abschn. 4, Syrien/Golan)"
+  },
+  {
+   "id": "e37",
+   "date": "6.6.1982–1983 (Sabra/Schatila 16.–18.9.1982)",
+   "phase": "IV",
+   "cluster": "B",
+   "core": true,
+   "title": "Libanonkrieg 1982 und das Massaker von Sabra/Schatila",
+   "actors": "Israel (Begin/Sharon); PLO; libanesische Phalange; UN",
+   "summary": "Großinvasion („Frieden für Galiläa“) mit dem Ziel der PLO-Vernichtung; Belagerung Beiruts; PLO-Abzug nach Tunis; Massaker von Sabra/Schatila (460–3.500 Tote) unter den Augen der IDF.",
+   "consequence": "UNGA 37/123 D stuft Sabra/Schatila als „act of genocide“ ein; Kahan-Bericht stellt indirekte Verantwortung Israels fest; Sharon-Rücktritt (1983); Hisbollah-Gründung als direkte Folge der Besatzung.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 508/509/520",
+     "doc_id": "S/RES/508/509/520 (1982)"
+    },
+    {
+     "name": "UNGA 37/123 D",
+     "doc_id": "A/RES/37/123D (16.12.1982)"
+    },
+    {
+     "name": "Kahan Commission Report",
+     "doc_id": "8.2.1983 (JVL)"
+    },
+    {
+     "name": "Khalidi, Under Siege",
+     "doc_id": "1986"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (Abschn. 2) · docs/03_klagekatalog_massaker.md (M40 Sabra/Schatila)"
+  },
+  {
+   "id": "e12",
+   "date": "9.12.1987–1988",
+   "phase": "IV",
+   "cluster": "B",
+   "core": true,
+   "title": "Erste Intifada und PLO-Kurswechsel",
+   "actors": "Palästinensische Bevölkerung; PLO (Algier 15.11.1988)",
+   "summary": "Volksaufstand gegen Besatzung; UNSC 605; PLO proklamiert Staat Palästina und akzeptiert faktisch Zwei-Staaten-Rahmen.",
+   "consequence": "US-PLO-Dialog; Madrider Konferenz 1991; Oslo-Kanäle.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 605",
+     "doc_id": "S/RES/605 (1987)",
+     "url": "https://unscr.com/en/resolutions/605/"
+    },
+    {
+     "name": "Palestinian Declaration of Independence",
+     "doc_id": "15.11.1988 (UNISPAL)",
+     "url": "https://www.un.org/unispal/document/auto-insert-178680/"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (1b)"
+  },
+  {
+   "id": "e16",
+   "date": "1990/91",
+   "phase": "IV",
+   "cluster": "B",
+   "core": false,
+   "title": "Palästinenser-Exodus aus Kuwait",
+   "actors": "Kuwait; PLO (Arafat/Saddam); ~200.000–400.000 Palästinenser",
+   "summary": "Nach Arafats Pro-Saddam-Kurs Vertreibung/Flucht von ~200.000–400.000 Palästinensern [Zahlen variieren].",
+   "consequence": "Humanitäre und finanzielle Krise der PLO → Hinwendung zum Madrider Prozess (1991).",
+   "tier": [
+    "T2",
+    "T3"
+   ],
+   "sources": [
+    {
+     "name": "HRW-Berichte",
+     "doc_id": "1991"
+    },
+    {
+     "name": "Shlaim, The Iron Wall",
+     "doc_id": "2000"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md#kuwait-exodus-1991"
+  },
+  {
+   "id": "e15",
+   "date": "1–2/1991",
+   "phase": "IV",
+   "cluster": "B",
+   "core": false,
+   "title": "Golfkrieg 1991: Scud-Angriffe auf Israel",
+   "actors": "Irak; Israel; USA (Patriot ab 20.1.1991)",
+   "summary": "~40 irakische Scud-Raketen auf Israel; Israel verzichtet auf Vergeltung (US-Druck).",
+   "consequence": "Präzedenz US-Luftverteidigung in Israel; strategische Zurückhaltung; Vertiefung der Sicherheitskooperation.",
+   "tier": [
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Freedman/Karsh, The Gulf Conflict",
+     "doc_id": "1993"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md#golfkrieg-1991-scuds"
+  },
+  {
+   "id": "e17",
+   "date": "13.9.1993",
+   "phase": "V",
+   "cluster": "B",
+   "core": true,
+   "title": "Oslo-I-Abkommen (DoP)",
+   "actors": "Rabin, Peres, Arafat; Norwegen/USA",
+   "summary": "Grundsatzerklärung über Interims-Selbstverwaltung (A/48/486–S/26560); Handschlag im Weißen Haus.",
+   "consequence": "Palästinensische Autonomiebehörde; A/B/C-Zonen; Endstatus nie erreicht; Siedlerzahl verdoppelt sich 1993–2023.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Oslo DoP",
+     "doc_id": "A/48/486-S/26560 (UNISPAL)",
+     "url": "https://www.un.org/unispal/document/auto-insert-180015/"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (1b)"
+  },
+  {
+   "id": "e19",
+   "date": "26.10.1994",
+   "phase": "V",
+   "cluster": "B",
+   "core": false,
+   "title": "Israelisch-jordanischer Friedensvertrag (Wadi Araba)",
+   "actors": "Rabin, König Hussein, Clinton",
+   "summary": "Grenzverlauf, Wasserrechte, jordanische Sonderrolle für die muslimischen Heiligtümer Jerusalems.",
+   "consequence": "Zweiter arabischer Friedensvertrag; stabile pragmatische Beziehungen; jordanische Wächterrolle am Haram al-Scharif vertraglich verankert.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Treaty of Peace",
+     "doc_id": "26.10.1994 (UNTS)"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md#friedensvertrag-jordanien-1994"
+  },
+  {
+   "id": "e18",
+   "date": "2000–2002",
+   "phase": "V",
+   "cluster": "B",
+   "core": true,
+   "title": "Kollaps des Endstatusprozesses (Camp David II, 2. Intifada, Arabische Friedensinitiative)",
+   "actors": "Arafat, Barak, Clinton; Sharon; Arabische Liga (Beirut 2002)",
+   "summary": "Scheitern von Camp David II (7/2000); Zweite Intifada ab 9/2000; UNSC 1397 (Zwei-Staaten-Vision, 12.3.2002); Arabische Friedensinitiative (28.3.2002).",
+   "consequence": "Sperranlage ab 2002 (IGH 2004); Normalisierungsangebot der Arabischen Liga bleibt Bezugspunkt.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 1397",
+     "doc_id": "S/RES/1397 (2002) — UN Digital Library record 459885",
+     "url": "https://digitallibrary.un.org/record/459885"
+    },
+    {
+     "name": "Arab Peace Initiative",
+     "doc_id": "UNSCO/UNISPAL",
+     "url": "https://unsco.unmissions.org/sites/default/files/api.pdf"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md#arabische-friedensinitiative-2002"
+  },
+  {
+   "id": "e39",
+   "date": "24.5.2000 / 16.6.2000",
+   "phase": "V",
+   "cluster": "B",
+   "core": false,
+   "title": "Israelischer Rückzug aus dem Libanon und Blue Line",
+   "actors": "Israel (Barak); Hisbollah; UN (S/2000/590)",
+   "summary": "Einseitiger Abzug Israels aus der Sicherheitszone; UN bestätigt Rückzug gemäß UNSC 425 und zieht die Blue Line (16.6.2000).",
+   "consequence": "Kollaps der SLA; Stärkung der Hisbollah; Shebaa-Farmen-Streit bleibt Konfliktherd (Vorfeld 2006).",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 425",
+     "doc_id": "S/RES/425 (1978, fortlaufend)"
+    },
+    {
+     "name": "UN-Bericht Blue Line",
+     "doc_id": "S/2000/590 (16.6.2000)"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (Sicherheitszone 1985–2000)"
+  },
+  {
+   "id": "e25",
+   "date": "2006/2008",
+   "phase": "V",
+   "cluster": "C",
+   "core": false,
+   "title": "Dahiya-Doktrin (disproportionale Abschreckung)",
+   "actors": "IDF (G. Eizenkot); INSS-Analyse (G. Siboni)",
+   "summary": "Nach dem 2. Libanonkrieg 2006 formulierte Doktrin: sofortige, entschlossene, disproportionale Gewalt gegen Infrastruktur des Gegners als Abschreckung.",
+   "consequence": "Prägung der Gazakriege (2008/09, 2014, 2023 ff.); von Menschenrechtsorganisationen dokumentiert (T3).",
+   "tier": [
+    "T2",
+    "T3"
+   ],
+   "sources": [
+    {
+     "name": "Siboni, Disproportionate Force",
+     "doc_id": "INSS 2008",
+     "url": "https://www.inss.org.il/publication/disproportionate-force-israels-concept-of-response-in-light-of-the-second-lebanon-war/"
+    }
+   ],
+   "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. B)"
+  },
+  {
+   "id": "e40",
+   "date": "12.7.–14.8.2006",
+   "phase": "V",
+   "cluster": "B",
+   "core": true,
+   "title": "Zweiter Libanonkrieg und UNSC 1701",
+   "actors": "Israel (Olmert); Hisbollah (Nasrallah); UN-Sicherheitsrat",
+   "summary": "Eskalation nach Hisbollah-Überfall (12.7.2006); 34-tägiger Krieg; UNSC 1701 fordert Waffenruhe und Hisbollah-Entwaffnung südlich des Litani.",
+   "consequence": "~1.100–1.200 libanesische und 165 israelische Tote; Winograd-Bericht (2008): „ohne klaren militärischen Sieg“; Geburtsstunde der Dahiya-Doktrin; unvollständige Hisbollah-Entwaffnung.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "UNSC 1701",
+     "doc_id": "S/RES/1701 (11.8.2006)"
+    },
+    {
+     "name": "Winograd Commission Report",
+     "doc_id": "30.1.2008 (JVL)"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (2. Libanonkrieg) · docs/01_ideologie_1882-1948.md (Dahiya-Doktrin)"
+  },
+  {
+   "id": "e20",
+   "date": "15.9.2020",
+   "phase": "V",
+   "cluster": "B",
+   "core": true,
+   "title": "Abraham Accords",
+   "actors": "USA (Trump); Israel; VAE, Bahrain (später Sudan, Marokko)",
+   "summary": "Normalisierung ohne vorherige Lösung der Palästinafrage (Frieden für Frieden).",
+   "consequence": "Bruch mit dem arabischen Konsens von 2002; Achsenbildung gegen Iran; saudische Gespräche 2023 ausgesetzt.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "Abraham Accords Declaration",
+     "doc_id": "State Dept (PDF)",
+     "url": "https://www.state.gov/wp-content/uploads/2020/10/Abraham-Accords-signed-FINAL-15-Sept-2020-508-1.pdf"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md#abraham-accords-2020"
+  },
+  {
+   "id": "e31",
+   "date": "2021",
+   "phase": "V",
+   "cluster": "C",
+   "core": false,
+   "title": "NSO Group / Pegasus: Überwachungs-Export-Kontroverse",
+   "actors": "NSO Group (privat, israelischer Export-Lizenznehmer); Forbidden Stories/Amnesty (Pegasus Project 2021)",
+   "summary": "Dokumentierte Missbrauchsfälle von Pegasus-Spyware gegen Journalisten und Aktivisten; Zivilklagen (u. a. Apple v. NSO 2021); US-Handelsliste 2021.",
+   "consequence": "Debatte über staatlich lizenzierte Cyber-Überwachung und Exportkontrolle — als Industrie-Kontroverse geführt, nicht als Staatsoperation.",
+   "tier": [
+    "T3"
+   ],
+   "sources": [
+    {
+     "name": "The Pegasus Project",
+     "doc_id": "Forbidden Stories/Amnesty International (2021)"
+    }
+   ],
+   "doc_ref": "docs/05_cluster_c_sicherheitsapparat.md#nso-pegasus"
+  },
+  {
+   "id": "e21",
+   "date": "7.10.2023 ff.",
+   "phase": "VI",
+   "cluster": "B",
+   "core": true,
+   "title": "Angriff auf Israel und Gazakrieg",
+   "actors": "Hamas u. a.; Israel; Hisbollah (Front ab 8.10.2023); Huthi",
+   "summary": "~1.195 Getötete am 7.10.2023; Gaza ≥76.600 Tote bis 8/2026 (MoH/Israel); UNGA ES-10/21; UNSC 2712/2728; Waffenruhen 19.1.–18.3.2025 und ab 10.10.2025.",
+   "consequence": "Tiefste regionale Eskalation seit 1973; Mehrfrontenkrieg; Entwaffnungsrahmen 2026 (Board of Peace).",
+   "tier": [
+    "T1",
+    "T3"
+   ],
+   "sources": [
+    {
+     "name": "UNGA ES-10/21",
+     "doc_id": "A/RES/ES-10/21",
+     "url": "https://en.wikisource.org/wiki/United_Nations_General_Assembly_Resolution_ES-10/21"
+    },
+    {
+     "name": "UNSC 2728",
+     "doc_id": "S/RES/2728 (2024)",
+     "url": "https://news.un.org/en/story/2024/03/1147931"
+    },
+    {
+     "name": "OCHA oPt",
+     "doc_id": "Daten",
+     "url": "https://www.ochaopt.org/"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (1b) · docs/03_klagekatalog_massaker.md"
+  },
+  {
+   "id": "e22",
+   "date": "2023–2026",
+   "phase": "VI",
+   "cluster": "C",
+   "core": true,
+   "title": "Justizialisierung: IGH und IStGH",
+   "actors": "Südafrika v. Israel (IGH); UNGA; ICC",
+   "summary": "IGH-Orders 26.1.2024 & 24.5.2024 (Rafah); IGH-Gutachten 19.7.2024 (Besatzung rechtswidrig); ICC-Haftbefehle 21.11.2024 (Netanjahu, Gallant, Deif).",
+   "consequence": "Völkerrechtliche Rahmenverschiebung; Verfahren laufen (kein Endurteil); Drittstaaten-Pflichten justiziabel.",
+   "tier": [
+    "T1"
+   ],
+   "sources": [
+    {
+     "name": "IGH Advisory Opinion",
+     "doc_id": "19.7.2024 (UNISPAL PDF)",
+     "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf"
+    },
+    {
+     "name": "ICC PTC I",
+     "doc_id": "21.11.2024",
+     "url": "https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (1b) · docs/04_forschungsprotokoll.md §5",
+   "primary_quote": {
+    "text": "… all States are under an obligation not to recognize as legal the situation arising from the unlawful presence of the State of Israel in the Occupied Palestinian Territory and not to render aid or assistance in maintaining the situation created by the continued presence of the State of Israel in the Occupied Palestinian Territory;",
+    "author_or_source": "IGH, Gutachten vom 19.7.2024 (Legal Consequences…), Dispositiv-Ziffer (7), angenommen mit 12:3 Stimmen (UNISPAL-PDF)",
+    "context": "Daneben: Verpflichtung Israels, seine Präsenz in den besetzten Gebieten so schnell wie möglich zu beenden",
+    "original_language": "englisch"
+   }
+  },
+  {
+   "id": "e23",
+   "date": "2024–2026",
+   "phase": "VI",
+   "cluster": "B",
+   "core": true,
+   "title": "Regionale Systemkrise: Libanon, Syrien, Iran",
+   "actors": "Israel; Hisbollah; HTS (Syrien); USA/Iran",
+   "summary": "Nasrallah getötet (27.9.2024); Libanon-Waffenruhe (27.11.2024); Assad-Sturz (8.12.2024); 12-Tage-Krieg (13.–24.6.2025); Irankrieg ab 28.2.2026 (Khamenei getötet; Waffenruhe 8.4.2026 kollabierte 8.7.2026).",
+   "consequence": "Konflikt wird zur regionalen Ordnungskrise; Golf-Allianzen; UNSC befasst (Res. 2817, 2026).",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "Israel-Hezbollah Ceasefire",
+     "doc_id": "NYT 27.11.2024",
+     "url": "https://www.nytimes.com/2024/11/27/world/middleeast/israel-lebanon-ceasefire.html"
+    },
+    {
+     "name": "12-Day War",
+     "doc_id": "Britannica 2025",
+     "url": "https://www.britannica.com/event/12-Day-War"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (2, 4) · docs/04_forschungsprotokoll.md §5"
+  },
+  {
+   "id": "e32",
+   "date": "1/2024",
+   "phase": "VI",
+   "cluster": "D",
+   "core": false,
+   "title": "Cluster D: Epstein-Abgrenzung — Giuffre v. Maxwell (Gerichtsakten)",
+   "actors": "US-Bundesgericht (SDNY); Ghislaine Maxwell (2021 verurteilt)",
+   "summary": "Entsiegelte Prozessakten (~950 Seiten, Januar 2024) nennen ~150–200 Personen als Assoziierte — Aussagen, keine gerichtlichen Straftat-Feststellungen; keine belegte projektrelevante Verbindung zu israelischen Staatsstrukturen.",
+   "consequence": "Spekulative Verschwörungsnarrative werden gemäß Projekt-SOUL verworfen; nur Gerichtsakten fließen ein.",
+   "tier": [
+    "T3"
+   ],
+   "sources": [
+    {
+     "name": "Unsealed Epstein court papers",
+     "doc_id": "The Guardian, 3.1.2024",
+     "url": "https://www.theguardian.com/us-news/2024/jan/03/jeffrey-epstein-documents-list-pdf"
+    },
+    {
+     "name": "Epstein documents unsealed",
+     "doc_id": "CNBC, 3.1.2024",
+     "url": "https://www.cnbc.com/2024/01/03/jeffrey-epstein-court-document-names-unsealed-wednesday-.html"
+    }
+   ],
+   "doc_ref": "docs/05_cluster_c_sicherheitsapparat.md#epstein-abgrenzung"
+  },
+  {
+   "id": "e41",
+   "date": "18.9.2024",
+   "phase": "VI",
+   "cluster": "C",
+   "core": false,
+   "title": "UNGA ES-10/23: Umsetzung des IGH-Gutachtens binnen 12 Monaten",
+   "actors": "UN-Generalversammlung (Notstandssession); Israel; Drittstaaten",
+   "summary": "Auf Basis des IGH-Gutachtens vom 19.7.2024 fordert die Resolution Israel auf, die unrechtmäßige Präsenz im besetzten Gebiet binnen 12 Monaten zu beenden; Drittstaaten zu Nicht-Anerkennung und Sanktionen verpflichtet.",
+   "consequence": "Völkerrechtliches Handlungsmandat mit Frist; verschärft die Pflichtenlage für Drittstaaten; Referenzpunkt der laufenden Verfahren.",
+   "tier": [
+    "T1",
+    "T2"
+   ],
+   "sources": [
+    {
+     "name": "UNGA ES-10/23",
+     "doc_id": "A/RES/ES-10/23 (18.9.2024, UN Digital Library)"
+    },
+    {
+     "name": "IGH Advisory Opinion",
+     "doc_id": "19.7.2024"
+    }
+   ],
+   "doc_ref": "docs/02_operationen_besatzung.md (Abschn. 1b) · docs/04_forschungsprotokoll.md §5"
+  },
+  {
+   "id": "e27",
+   "date": "2026",
+   "phase": "VI",
+   "cluster": "D",
+   "core": false,
+   "title": "Cluster D: Verifikation der 54-Vorfälle-Liste",
+   "actors": "Projekt RoadMapHistory (Quellenkritik)",
+   "summary": "Prüfung einer Social-Media-Liste (54 Einträge 1937–2025): 9 belegt · 26 belegt-mit-Korrektur · 2 Doppelungen · 17 verworfen; Selektivitätsanalyse (fehlende Kategorien jüdischer Opfer, Kafr Qasim).",
+   "consequence": "Katalog als Transparenz- und Arbeitsinstrument; nur verifizierte Einträge fließen in die Roadmap.",
+   "tier": [
+    "T1",
+    "T2",
+    "T3"
+   ],
+   "sources": [
+    {
+     "name": "Klagekatalog",
+     "doc_id": "docs/03",
+     "url": "docs/03_klagekatalog_massaker.md"
+    }
+   ],
+   "doc_ref": "docs/03_klagekatalog_massaker.md"
+  }
+ ]
+}
