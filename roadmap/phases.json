@@ -40,12 +40,14 @@
     {
      "name": "Pittsburgh Platform (1885)",
      "doc_id": "Text (myjewishlearning.com / posenlibrary.com)",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://www.myjewishlearning.com/article/the-pittsburgh-platform/"
     },
     {
      "name": "Laqueur, A History of Zionism",
      "doc_id": "2003",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/historyofzionism0000laqu_r1a6"
     }
    ],
    "doc_ref": "docs/01_ideologie_1882-1948.md#innerjuedische-kritik",
@@ -79,7 +81,8 @@
     {
      "name": "Basler Programm",
      "doc_id": "Wikisource",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://en.wikisource.org/wiki/Zionism/The_Basel_Programme"
     }
    ],
    "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. A)",
@@ -122,8 +125,8 @@
    "sources": [
     {
      "name": "Ketubot 111a-b: Oaths That Bind",
-     "doc_id": "Erläuterung R. Adin Steinsaltz",
-     "direct_url": "https://steinsaltz.org/daf/ketubot111/",
+     "doc_id": "Ketubot 111a (Sefaria, zweisprachig) — Steinsaltz-Erläuterung: steinsaltz.org/daf/ketubot111/",
+     "direct_url": "https://www.sefaria.org/Ketubot.111a?lang=bi",
      "tier": "T2"
     },
     {
@@ -174,12 +177,14 @@
     {
      "name": "Bund-Programm/Archiv",
      "doc_id": "YIVO",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://yivoencyclopedia.org/article.aspx/Bund"
     },
     {
      "name": "Pickhan, Gegen den Strom (Bund)",
      "doc_id": "2001",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://portal.dnb.de/opac/simpleSearch?query=Pickhan+Gegen+den+Strom"
     }
    ],
    "doc_ref": "docs/01_ideologie_1882-1948.md#innerjuedische-kritik",
@@ -207,7 +212,8 @@
     {
      "name": "Kongress-Protokolle 6./7. Kongress",
      "doc_id": "Compact Memory",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://sammlungen.ub.uni-frankfurt.de/cm/periodical/titleinfo/3476254"
     }
    ],
    "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. A)",
@@ -353,17 +359,20 @@
     {
      "name": "Buber, A Land of Two Peoples",
      "doc_id": "hg. P. Mendes-Flohr, 1983",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/buber-a-land-of-two-peoples"
     },
     {
      "name": "Magnes, Like All the Nations?",
      "doc_id": "1930",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/likeallnationsli0000unse"
     },
     {
      "name": "Shlaim, The Iron Wall",
      "doc_id": "2000",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/the-iron-wall-israel-and-the-arab-world-updated-and-shlaim-ph-d-avi-updated-and-"
     }
    ],
    "doc_ref": "docs/01_ideologie_1882-1948.md#innerjuedische-kritik",
@@ -477,7 +486,8 @@
     {
      "name": "Morris",
      "doc_id": "Birth of the Palestinian Refugee Problem Revisited (2004)",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/birthofpalestini0000morr_e6e3"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md (1a) · docs/03_klagekatalog_massaker.md",
@@ -629,12 +639,14 @@
     {
      "name": "Pollack, Arabs at War",
      "doc_id": "2002",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/arabsatwarmilita0000poll"
     },
     {
      "name": "Shlaim, The Iron Wall",
      "doc_id": "2000",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/the-iron-wall-israel-and-the-arab-world-updated-and-shlaim-ph-d-avi-updated-and-"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md#karameh-1968",
@@ -642,7 +654,8 @@
    "deep_analysis": [
     "Am 21. März 1968 überquerte eine israelische Großformation bei Karameh (Jordanien) den Jordan, um die dortige Fatah-Basis zu zerstören. Die IDF verlor 28 Soldaten, rund 90 wurden verwundet, etwa 17 gepanzerte Fahrzeuge gingen verloren; die jordanische Armee und die palästinensischen Kämpfer verloren nach Schätzungen 100–250 Mann [Zahlen variieren: Pollack 2002; Shlaim 2000].",
     "Militärisch war die Operation ein israelischer Teilerfolg — das Basislager wurde zerstört —, politisch jedoch ein Wendepunkt zugunsten der PLO: Erstmals hatten palästinensische Kämpfer zusammen mit der jordanischen Armee einem israelischen Großangriff sichtbar standgehalten. Die Fatah stilisierte Karameh zum Gründungsmythos; Tausende Freiwillige strömten in die Bewegung, und Arafats Position in der PLO-Führung wurde unangreifbar.",
-    "Die strategische Folge: Die PLO wurde von einer Guerillabewegung zum politischen Akteur, dessen Ausschaltung Israel fortan in Jordanien (bis 1970) und danach im Libanon suchte. Karameh markiert zugleich den Beginn der Spannungen zwischen der jordanischen Staatsgewalt und den palästinensischen Milizen, die zwei Jahre später im Schwarzen September eskalierten."
+    "Die strategische Folge: Die PLO wurde von einer Guerillabewegung zum politischen Akteur, dessen Ausschaltung Israel fortan in Jordanien (bis 1970) und danach im Libanon suchte. Karameh markiert zugleich den Beginn der Spannungen zwischen der jordanischen Staatsgewalt und den palästinensischen Milizen, die zwei Jahre später im Schwarzen September eskalierten.",
+    "Die Operation selbst war groß angelegt: Fallschirmjäger- und Panzerverbände griffen über den Jordan hinweg an, während die jordanische Artillerie massiv in den Kampf eingriff; Arafat entkam nur knapp und wurde zum gefeierten Helden der arabischen Welt. König Hussein solidarisierte sich öffentlich mit den palästinensischen Kämpfern — ein Signal, das den jordanisch-palästinensischen Gegensatz kurzfristig überdeckte, aber nicht auflöste. Für Israel wurde Karameh zum Lehrstück über die Kosten begrenzter Razzien: Der militärische Punktgewinn verpuffte, der politische Schaden für das Image der Unbesiegbarkeit wirkte lange nach."
    ]
   },
   {
@@ -662,12 +675,14 @@
     {
      "name": "Shlaim, The Iron Wall",
      "doc_id": "2000",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/the-iron-wall-israel-and-the-arab-world-updated-and-shlaim-ph-d-avi-updated-and-"
     },
     {
      "name": "Pollack, Arabs at War",
      "doc_id": "2002",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/arabsatwarmilita0000poll"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md#schwarzer-september",
@@ -713,7 +728,8 @@
    "deep_analysis": [
     "Am 6. Oktober 1973 — dem Jom-Kippur-Feiertag — eröffneten Ägypten und Syrien einen koordinierten Überraschungsangriff auf die israelischen Linien am Suezkanal und auf den Golanhöhen. Die ägyptische Armee überquerte den Kanal und durchbrach die Bar-Lev-Linie; erst nach massiven Verlusten stabilisierte Israel die Fronten und ging zur Gegenoffensive über (Einkesselung der 3. ägyptischen Armee, Vormarsch auf Damaskus).",
     "Der Krieg erschütterte die israelische Sicherheitsdoktrin der 'unüberwindlichen Abschreckung' und führte zur Agranat-Untersuchungskommission; politisch war er Sadats eigentliches Ziel: Durch den militärischen Prestigegewinn die Verhandlungsfähigkeit Ägyptens herzustellen. UNSC 338 (22.10.1973) verlangte die Feuereinstellung binnen zwölf Stunden und verwies ausdrücklich auf die Umsetzung von UNSC 242 'in all of its parts' — erstmals wurde Land-für-Frieden zum operativen Verhandlungsauftrag.",
-    "Die Folgen: Ölembargo und westliche Neuorientierung, US-Außenpolitik der Pendeldiplomatie (Kissinger), Truppenentflechtungsabkommen (1974), und die strategische Eröffnung, aus der 1978/79 der ägyptisch-israelische Frieden hervorging. Ohne den Oktoberkrieg wäre Camp David historisch kaum denkbar — er verwandelte den militärischen Schock in den ersten Friedensvertrag."
+    "Die Folgen: Ölembargo und westliche Neuorientierung, US-Außenpolitik der Pendeldiplomatie (Kissinger), Truppenentflechtungsabkommen (1974), und die strategische Eröffnung, aus der 1978/79 der ägyptisch-israelische Frieden hervorging. Ohne den Oktoberkrieg wäre Camp David historisch kaum denkbar — er verwandelte den militärischen Schock in den ersten Friedensvertrag.",
+    "Die Logistik des Krieges war Supermacht-vermittelt: Die US-Luftbrücke 'Nickel Grass' flog ab dem 14. Oktober 1973 rund 22.000 Tonnen Nachschub nach Israel, während die Sowjetunion Ägypten und Syrien versorgte. Nach der Feuereinstellung folgten die Entflechtungsverhandlungen am 'Kilometer 101' der Straße Kairo–Suez und die Abkommen von 1974. Wirtschaftlich vervierfachte das arabische Ölembargo die Rohölpreise und löste die erste Energiekrise des Westens aus. Der Oktoberkrieg war damit ein globales Ereignis: Er beendete die Ära scheinbar billiger Energie und zwang den Westen zu einer Neuordnung seiner Nahost-Politik."
    ]
   },
   {
@@ -767,14 +783,20 @@
    ],
    "sources": [
     {
-     "name": "UNSC 425 / 426",
-     "doc_id": "S/RES/425 (1978), S/RES/426 (UNIFIL)",
-     "tier": "T1"
+     "name": "UNSC 425",
+     "doc_id": "S/RES/425 (19.3.1978) — Volltext (Wikisource)",
+     "direct_url": "https://en.wikisource.org/wiki/United_Nations_Security_Council_Resolution_425"
+    },
+    {
+     "name": "UNSC 426",
+     "doc_id": "S/RES/426 (1978, UNIFIL) — Volltext (Wikisource)",
+     "direct_url": "https://en.wikisource.org/wiki/United_Nations_Security_Council_Resolution_426"
     },
     {
      "name": "Shlaim, The Iron Wall",
      "doc_id": "2000",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/the-iron-wall-israel-and-the-arab-world-updated-and-shlaim-ph-d-avi-updated-and-"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md (Abschn. 2, Libanon)",
@@ -858,7 +880,8 @@
     {
      "name": "Cohen, The Worst-Kept Secret",
      "doc_id": "2010",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://cup.columbia.edu/book/the-worst-kept-secret/9780231146982"
     }
    ],
    "doc_ref": "docs/01_ideologie_1882-1948.md (Abschn. B, Militärdoktrinen)",
@@ -866,7 +889,8 @@
    "deep_analysis": [
     "Am 7. Juni 1981 zerstörte die israelische Luftwaffe im 'Operation Opera' den irakischen Atomreaktor Osirak nahe Bagdad kurz vor dessen Inbetriebnahme. Ministerpräsident Menachem Begin formulierte die nach ihm benannte Doktrin: Israel werde niemals zulassen, dass ein feindlicher Staat in den Besitz von Nuklearwaffen gelangt — notfalls durch Präventivschlag.",
     "Der UN-Sicherheitsrat verurteilte den Angriff in Resolution 487 (19.6.1981) einstimmig als 'clear violation of the Charter of the United Nations' und verlangte Reparationen. Die internationale Bewertung blieb gespalten: Die USA stimmten zwar zu, betrieben aber praktisch keine Sanktionen; die Proliferations-Forschung diskutiert bis heute, ob Osirak kurz vor der Bombenfähigkeit stand (Cohen 2010).",
-    "Die Doktrin wurde 2007 erneut angewandt: Am 6. September 2007 zerstörte Israel den syrischen Reaktor Al-Kibar (Operation Orchard). Seither ist die 'Begin-Doktrin' die zentrale Referenz aller Debatten um das iranische Atomprogramm — einschließlich der Frage, ob ein Präventivschlag völkerrechtlich als Selbstverteidigung (Art. 51 UN-Charta) zu rechtfertigen wäre. Die UNSC-Verurteilung von 1981 bleibt dabei der konträre Präzedenzfall."
+    "Die Doktrin wurde 2007 erneut angewandt: Am 6. September 2007 zerstörte Israel den syrischen Reaktor Al-Kibar (Operation Orchard). Seither ist die 'Begin-Doktrin' die zentrale Referenz aller Debatten um das iranische Atomprogramm — einschließlich der Frage, ob ein Präventivschlag völkerrechtlich als Selbstverteidigung (Art. 51 UN-Charta) zu rechtfertigen wäre. Die UNSC-Verurteilung von 1981 bleibt dabei der konträre Präzedenzfall.",
+    "Die operationellen Details sind dokumentiert: Acht israelische F-16A flogen den Angriff tief über saudi-arabisches und jordanisches Gebiet, warfen in knapp zwei Minuten sechzehn Bomben auf den Reaktorkern und zerstörten ihn vollständig; bei dem Angriff wurde auch ein französischer Techniker getötet. Die US-Reagan-Regierung unterstützte die israelische Deutung öffentlich, stimmte der UNSC-Verurteilung aber zu — ein doppelbödiges Signal, das die Duldung von Präemption bei gleichzeitiger formaler Rüge etablierte. Für spätere Fälle (Al-Kibar 2007, Iran-Debatten) ist Osirak seither der zentrale Präzedenzfall beider Argumentationslinien."
    ]
   },
   {
@@ -887,12 +911,14 @@
     {
      "name": "Golan Heights Law",
      "doc_id": "14.12.1981",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://www.jewishvirtuallibrary.org/the-golan-heights-law"
     },
     {
      "name": "UNSC 497",
      "doc_id": "S/RES/497 (17.12.1981)",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://unscr.com/en/resolutions/497/"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md (Abschn. 4, Syrien/Golan)",
@@ -909,7 +935,8 @@
    "deep_analysis": [
     "Am 14. Dezember 1981 beschloss die Knesset das Golan-Gesetz: Israels 'Recht, Rechtsprechung und Verwaltung' wurden auf die 1967 besetzten syrischen Golanhöhen ausgedehnt — die einzige formelle Annexion neben Ost-Jerusalem. Der UN-Sicherheitsrat erklärte die Maßnahme am 17. Dezember 1981 in Resolution 497 einstimmig für 'null and void and without international legal effect' und forderte die sofortige Rücknahme.",
     "Die Annexion blieb völkerrechtlich wirkungslos: Kein Staat erkannte sie an — die bemerkenswerte Ausnahme kam erst am 25. März 2019, als die USA unter Präsident Trump die israelische Souveränität über den Golan anerkannten, was international einhellig auf Ablehnung stieß. Die UN-Generalversammlung bekräftigt die Ungültigkeit seither jährlich.",
-    "Die strategische Bedeutung des Golan — Wasserressourcen, Blick über den See Genezareth, Puffer zu Syrien — erklärt die israelische Annextionspolitik; der syrische Bürgerkrieg seit 2011 ließ zudem jede Verhandlungsoption kollabieren. Völkerrechtlich ist der Golan besetztes syrisches Gebiet; die Siedlungen dort (rund 20.000 israelische Siedler neben Drusen-Dörfern) gelten als illegal (vgl. UNSC 446/465, IGH 2024)."
+    "Die strategische Bedeutung des Golan — Wasserressourcen, Blick über den See Genezareth, Puffer zu Syrien — erklärt die israelische Annextionspolitik; der syrische Bürgerkrieg seit 2011 ließ zudem jede Verhandlungsoption kollabieren. Völkerrechtlich ist der Golan besetztes syrisches Gebiet; die Siedlungen dort (rund 20.000 israelische Siedler neben Drusen-Dörfern) gelten als illegal (vgl. UNSC 446/465, IGH 2024).",
+    "Vor Ort ist die Lage doppelt: Rund 20.000 israelische Siedler leben in über 30 Siedlungen, während die drusische Bevölkerung — die ihre syrische Identität mehrheitlich bewahrt und die israelische Staatsbürgerschaft überwiegend ablehnt — die Annexion nie anerkannte. Strategisch dienen die Höhen als Wasserreservoir und militärischer Beobachtungsposten; nach dem Sturz Assads (Dezember 2024) rückte Israel zusätzlich in die entmilitarisierte Pufferzone vor und erklärte das Abkommen von 1974 vorübergehend für ausgesetzt. Die UNSC-Linie bleibt: Annexion wirkungslos — die Faktenlage vor Ort hat sich davon unabhängig entwickelt."
    ]
   },
   {
@@ -928,24 +955,37 @@
    ],
    "sources": [
     {
-     "name": "UNSC 508/509/520",
-     "doc_id": "S/RES/508/509/520 (1982)",
-     "tier": "T1"
+     "name": "UNSC 508",
+     "doc_id": "S/RES/508 (5.6.1982) — Volltext (unscr.com)",
+     "direct_url": "https://unscr.com/en/resolutions/508/"
+    },
+    {
+     "name": "UNSC 509",
+     "doc_id": "S/RES/509 (6.6.1982) — Volltext (unscr.com)",
+     "direct_url": "https://unscr.com/en/resolutions/509/"
+    },
+    {
+     "name": "UNSC 520",
+     "doc_id": "S/RES/520 (17.9.1982) — Volltext (Wikisource)",
+     "direct_url": "https://en.wikisource.org/wiki/United_Nations_Security_Council_Resolution_520"
     },
     {
      "name": "UNGA 37/123 D",
      "doc_id": "A/RES/37/123D (16.12.1982)",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://www.jewishvirtuallibrary.org/un-general-assembly-resolution-37-123-december-1982"
     },
     {
      "name": "Kahan Commission Report",
      "doc_id": "8.2.1983 (JVL)",
-     "tier": "T3"
+     "tier": "T3",
+     "direct_url": "https://www.jewishvirtuallibrary.org/the-kahan-commission-report"
     },
     {
      "name": "Khalidi, Under Siege",
      "doc_id": "1986",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://portal.dnb.de/opac/simpleSearch?query=Khalidi+Under+Siege"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md (Abschn. 2) · docs/03_klagekatalog_massaker.md (M40 Sabra/Schatila)",
@@ -1009,12 +1049,14 @@
     {
      "name": "HRW-Berichte",
      "doc_id": "1991",
-     "tier": "T3"
+     "tier": "T3",
+     "direct_url": "https://openlibrary.org/books/OL1576253M/A_Victory_turned_sour"
     },
     {
      "name": "Shlaim, The Iron Wall",
      "doc_id": "2000",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/the-iron-wall-israel-and-the-arab-world-updated-and-shlaim-ph-d-avi-updated-and-"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md#kuwait-exodus-1991",
@@ -1022,7 +1064,8 @@
    "deep_analysis": [
     "Nach der irakischen Invasion Kuwaits (2. August 1990) stellte sich die PLO unter Arafat offen an die Seite Saddam Husseins — eine der folgenreichsten Fehlentscheidungen der palästinensischen Geschichte. Nach der Befreiung Kuwaits im Februar 1991 wurden die rund 400.000 dort lebenden Palästinenser (Ausgangsbevölkerung) systematisch vertrieben; etwa 200.000–400.000 verließen das Land dauerhaft [Zahlen variieren; HRW 1991; Shlaim 2000].",
     "Der Exodus zerstörte eine der wohlhabendsten palästinensischen Diaspora-Gemeinden und riss der PLO zugleich ihre wichtigsten Finanzströme ab: Überweisungen der Kuwait-Palästinenser, Golf-Fördergelder und saudische Zuwendungen versiegten. Die Organisation stand 1991 vor dem Bankrott — mitten im Aufbau des Staates in spe.",
-    "Die Krise erzwang die politische Wende: Ohne Finanzkraft und ohne den irakischen Schutzpatron musste Arafat in den US-dominierten Madrider Prozess eintreten. Der Kuwait-Exodus ist damit ein unterschätzter Kausalfaktor des Osloer Weges — er zeigt, wie stark die palästinensische Nationalbewegung von der Gunst arabischer Ölstaaten abhing."
+    "Die Krise erzwang die politische Wende: Ohne Finanzkraft und ohne den irakischen Schutzpatron musste Arafat in den US-dominierten Madrider Prozess eintreten. Der Kuwait-Exodus ist damit ein unterschätzter Kausalfaktor des Osloer Weges — er zeigt, wie stark die palästinensische Nationalbewegung von der Gunst arabischer Ölstaaten abhing.",
+    "Die humanitäre Dimension des Exodus ist dokumentiert: Der Middle-Eat-Watch-/HRW-Bericht 'A Victory Turned Sour' (September 1991) registrierte über vierzig extralegale Tötungen in Kuwait nach der Befreiung, die Mehrheit davon Palästinenser, dazu Folter, Verhaftungen und wirtschaftlichen Druck bis zur Ausweisung. Arafats 'Linkage'-Strategie (Kuwait gegen Rückzug aus den besetzten Gebieten) war gescheitert; Saudi-Arabien und die Golfstaaten stellten ihre Zuwendungen an die PLO weitgehend ein. Die finanzielle Lähmung erzwang den Gang nach Madrid — ein klassischer Fall, in dem ökonomischer Druck politische Kompromissbereitschaft erzeugt."
    ]
   },
   {
@@ -1042,7 +1085,8 @@
     {
      "name": "Freedman/Karsh, The Gulf Conflict",
      "doc_id": "1993",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://archive.org/details/gulfconflict199000free"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md#golfkrieg-1991-scuds",
@@ -1050,7 +1094,8 @@
    "deep_analysis": [
     "Zwischen Januar und Februar 1991 feuerte der Irak im Zweiten Golfkrieg rund 40 Scud-Raketen auf Israel ab, um die arabische Koalitionsfront gegen Bagdad zu sprengen. Die israelische Regierung Schamir verzichtete — auf massiven US-Druck und gestützt auf amerikanische Patriot-Batterien (stationiert ab 20. Januar 1991) — auf jede militärische Vergeltung.",
     "Die strategische Zurückhaltung war historisch präzedenzlos: Israel hatte zuvor stets militärisch geantwortet. Der Verzicht sicherte den Zusammenhalt der Koalition (arabische Staaten an der Seite der USA), brachte aber innenpolitische Spannungen und warf die Frage auf, ob Vergeltungsverzicht zur dauerhaften Doktrin werden könne.",
-    "Die Folgen: Washington band Israel fester in seine regionale Sicherheitsarchitektur ein (Patriot-, später Arrow-Raketenabwehr); die arabisch-israelische Konfrontation verlagerte sich von Staatenkriegen zu Raketen- und Stellvertreterkonflikten. Die Golfkriegs-Erfahrung begründete zugleich die US-Initiative zur Madrider Friedenskonferenz im Oktober 1991."
+    "Die Folgen: Washington band Israel fester in seine regionale Sicherheitsarchitektur ein (Patriot-, später Arrow-Raketenabwehr); die arabisch-israelische Konfrontation verlagerte sich von Staatenkriegen zu Raketen- und Stellvertreterkonflikten. Die Golfkriegs-Erfahrung begründete zugleich die US-Initiative zur Madrider Friedenskonferenz im Oktober 1991.",
+    "Die Raketenabwehr-Bilanz war gemischt: Die Patriot-Systeme zerstörten zwar mehrere Scuds im Flug, ihre Trefferquote wurde später kontrovers diskutiert. Nach offiziellen Angaben töteten die Angriffe zwei Menschen direkt, weitere rund 70 starben an indirekten Folgen (Herzinfarkte, Fehlbedienung der Schutzmasken) [Zahlen variieren]. Strategisch folgte aus der Erfahrung der Ausbau der eigenen Raketenabwehr — aus der Patriot-Kooperation von 1991 entwickelte sich das Arrow- und später Iron-Dome-Programm, mit dem Israel heute jede Raketengeneration des Konflikts abfängt."
    ]
   },
   {
@@ -1099,7 +1144,8 @@
     {
      "name": "Treaty of Peace",
      "doc_id": "26.10.1994 (UNTS)",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://www.jewishvirtuallibrary.org/israel-jordan-peace-treaty"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md#friedensvertrag-jordanien-1994",
@@ -1107,7 +1153,8 @@
    "deep_analysis": [
     "Der israelisch-jordanische Friedensvertrag wurde am 26. Oktober 1994 im Grenzort Wadi Araba unterzeichnet (Rabin, König Hussein, Clinton) — Ergebnis des Madrider Prozesses und der Washingtoner Erklärung (Juli 1994). Er regelt den Grenzverlauf entlang von Jordan und Arava, Wasserrechte (Verteilung der Jordan- und Yarmuk-Ressourcen) und die Sicherheitskooperation.",
     "Artikel 9 enthält die historische Besonderheit: Israel erkennt die 'besondere Rolle' des haschemitischen Königreichs bei den muslimischen heiligen Stätten Jerusalems an — ein Kompromiss, der nach dem Scheitern der Endstatusverhandlungen (2000) und der palästinensischen Schwächung an Gewicht gewann: Jordanien agiert seither als vertraglich legitimierter Hüter des Haram al-Scharif.",
-    "Der Vertrag machte Jordanien zum zweiten arabischen Friedenspartner und stabilisiert bis heute die längste israelische Grenze. Wirtschaftlich blieben die Erwartungen hinter den Versprechen zurück; politisch überstand der Vertrag alle Krisen. Er belegt zugleich das Muster der Land-für-Frieden-Verträge: territoriale Klarheit und Sicherheit dort, wo keine Besatzungskonstellation mit Siedlungsfakten existierte."
+    "Der Vertrag machte Jordanien zum zweiten arabischen Friedenspartner und stabilisiert bis heute die längste israelische Grenze. Wirtschaftlich blieben die Erwartungen hinter den Versprechen zurück; politisch überstand der Vertrag alle Krisen. Er belegt zugleich das Muster der Land-für-Frieden-Verträge: territoriale Klarheit und Sicherheit dort, wo keine Besatzungskonstellation mit Siedlungsfakten existierte.",
+    "Die technische Tiefe des Vertrags: Er legt die Wasseraufteilung von Jordan und Yarmuk fest (u. a. jordanische Entnahmerechte und gemeinsame Speicherung im See Genezareth von 25 Mio. m³ jährlich für Jordanien), regelt Grenzflächen-Arrondierungen und vereinbarte 25-jährige Sonderregelungen für die landwirtschaftlichen Enklaven Baqura/Naharayim (2021 ausgelaufen). Sicherheitspolitisch verpflichtet er beide Seiten auf Terrorbekämpfung und Entmilitarisierung des Grenzgebiets. Er ist damit der umfassendste bilaterale Friedensvertrag Israels — dichter geregelt als der ägyptisch-israelische von 1979."
    ]
   },
   {
@@ -1163,12 +1210,14 @@
     {
      "name": "UNSC 425",
      "doc_id": "S/RES/425 (1978, fortlaufend)",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://en.wikisource.org/wiki/United_Nations_Security_Council_Resolution_425"
     },
     {
      "name": "UN-Bericht Blue Line",
      "doc_id": "S/2000/590 (16.6.2000)",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://www.un.org/unispal/document/auto-insert-180431/"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md (Sicherheitszone 1985–2000)",
@@ -1176,7 +1225,8 @@
    "deep_analysis": [
     "Am 24. Mai 2000 zog Israel seine Truppen einseitig aus der seit 1978/85 gehaltenen 'Sicherheitszone' im Südlibanon ab; die mit Israel verbündete Südlibanesische Armee (SLA) kollabierte binnen Stunden. Der UN-Generalsekretär bestätigte am 16. Juni 2000 (S/2000/590) den vollständigen Rückzug gemäß UNSC 425 und zog die 'Blaue Linie' als völkerrechtliche Rückzugslinie.",
     "Der Abzug war ein Erfolg des israelischen Drucks von unten — die Verluste in der Zone waren innenpolitisch unhaltbar geworden —, stärkte aber paradox die Hisbollah, die ihn als ihren Sieg verbuchte. Der Streit um die Shebaa-Farmen (von Libanon und Hisbollah als libanesisch beansprucht, von der UN als syrisch-1981-Golan-Gebiet eingestuft) blieb offen und lieferte der Hisbollah die Begründung, den 'Widerstand' fortzusetzen.",
-    "Die Blaue Linie wurde zur unsichtbaren Frontlinie: Scharmützel, Entführungen und Raketenaustausch eskalierten über sie hinweg bis zum Krieg 2006. Der Rückzug 2000 widerlegt zugleich die These, territorialer Abzug allein bringe Stabilität — ohne politische Einbindung der Hisbollah blieb der Rückzug militärisch halbiert."
+    "Die Blaue Linie wurde zur unsichtbaren Frontlinie: Scharmützel, Entführungen und Raketenaustausch eskalierten über sie hinweg bis zum Krieg 2006. Der Rückzug 2000 widerlegt zugleich die These, territorialer Abzug allein bringe Stabilität — ohne politische Einbindung der Hisbollah blieb der Rückzug militärisch halbiert.",
+    "Der Kollaps der Verbündeten war abrupt: Rund 2.500 SLA-Angehörige flohen mit ihren Familien nach Israel; viele Führungskader wurden im Libanon später wegen Kollaboration verurteilt, Hunderte blieben als Staatenlose. Die Hisbollah verbuchte den Rückzug als ersten 'Sieg' über Israel — ein Narrativ, das ihre Legitimation im Libanon dauerhaft stärkte. An der Blauen Linie blieben kleinere Konfliktherde bestehen, darunter das geteilte Dorf Ghajar und die Schebaa-Farmen. Der Rückzug beendete die Besatzung, nicht aber den Konflikt — 2006 eskalierte er über genau diese Linie hinweg erneut zum Krieg."
    ]
   },
   {
@@ -1206,7 +1256,8 @@
    "deep_analysis": [
     "Nach dem Zweiten Libanonkrieg 2006 formulierte der damalige Nordkommando-Chef Gadi Eizenkot die Lehre der 'disproportionalen Antwort'; der INSS-Offizier Gabi Siboni systematisierte sie 2008 unter dem Titel 'Disproportionate Force': Künftige Kriege würden nicht mehr primär gegen feindliche Streitkräfte, sondern gegen die zivile Infrastruktur der Gegenseite geführt — mit überwältigender, unverhältnismäßiger Gewalt als Abschreckungssignal.",
     "Namensgeber ist der Beiruter Vorort Dahiya, das Hisbollah-Zentrum, das 2006 flächendeckend zerstört wurde. Die Doktrin institutionalisiert damit die völkerrechtlich umstrittene Umdeutung des Verhältnismäßigkeitsgrundsatzes (Art. 51 IV ZP I der Genfer Abkommen): Zivile Objekte werden als legitime Ziele behandelt, wenn sie der 'Feindinfrastruktur' dienen.",
-    "Die praktische Anwendung zeigte sich in den Gaza-Kriegen 2008/09, 2014 und 2023 ff. mit ihren hohen zivilen Opferzahlen und flächigen Zerstörungen (dokumentiert u. a. von OCHA, B'Tselem, HRW). Menschenrechtsorganisationen und UN-Kommissionen stufen wiederholt Elemente dieser Kriegführung als Verstöße gegen humanitäres Völkerrecht ein — der IGH-Gesamtbefund 2024 zur Besatzung ergänzt diese Rechtsprechungslinie."
+    "Die praktische Anwendung zeigte sich in den Gaza-Kriegen 2008/09, 2014 und 2023 ff. mit ihren hohen zivilen Opferzahlen und flächigen Zerstörungen (dokumentiert u. a. von OCHA, B'Tselem, HRW). Menschenrechtsorganisationen und UN-Kommissionen stufen wiederholt Elemente dieser Kriegführung als Verstöße gegen humanitäres Völkerrecht ein — der IGH-Gesamtbefund 2024 zur Besatzung ergänzt diese Rechtsprechungslinie.",
+    "Die völkerrechtliche Kritik setzt an Art. 51(5)(b) des Zusatzprotokolls I zu den Genfer Abkommen an: Ein Angriff ist unverhältnismäßig, wenn die erwarteten zivilen Schäden zum erwarteten militärischen Vorteil außer Verhältnis stehen. Menschenrechtsorganisationen und UN-Gremien stuften die Anwendung der Doktrin in Gaza (2008/09, 2014, 2021, 2023 ff.) wiederholt als Verstoß gegen diesen Grundsatz ein; die israelische Militäranwaltschaft verteidigt die Praxis als abschreckungswirksam. Für das Archiv ist entscheidend: Die Doktrin ist kein Gerücht, sondern ein dokumentiertes, öffentlich formuliertes Konzept — ihre Rechtmäßigkeit ist es, die strittig bleibt."
    ]
   },
   {
@@ -1227,12 +1278,14 @@
     {
      "name": "UNSC 1701",
      "doc_id": "S/RES/1701 (11.8.2006)",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://en.wikisource.org/wiki/United_Nations_Security_Council_Resolution_1701"
     },
     {
      "name": "Winograd Commission Report",
      "doc_id": "30.1.2008 (JVL)",
-     "tier": "T3"
+     "tier": "T3",
+     "direct_url": "https://www.jewishvirtuallibrary.org/the-winograd-commission-report"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md (2. Libanonkrieg) · docs/01_ideologie_1882-1948.md (Dahiya-Doktrin)",
@@ -1278,7 +1331,8 @@
    "deep_analysis": [
     "Am 15. September 2020 unterzeichneten Israel, die Vereinigten Arabischen Emirate und Bahrain unter US-Vermittlung die Abraham-Erklärung im Weißen Haus; Sudan und Marokko folgten noch 2020. Die Abkommen normalisieren die Beziehungen — Botschaften, Flüge, Handel, Sicherheitskooperation — ohne jede Lösung der Palästinafrage: ein offener Bruch mit dem arabischen Konsens der Friedensinitiative von Beirut 2002 ('Land für Frieden').",
     "Der strategische Kern ist die Neuordnung gegen den Iran: Die Golfstaaten kauften amerikanische Sicherheitsgarantien und Zugang zu US-Rüstung (u. a. F-35-Zusage an die Emirate); Israel erhielt Legitimität und regionale Allianzpartner ('Frieden für Frieden'). Die Palästinenserführung sprach von einem 'Dolchstoß' — die Autonomiebehörde verlor ein weiteres Druckmittel.",
-    "Die Abraham Accords bewiesen, dass Normalisierung ohne palästinensische Staatlichkeit möglich ist — und veränderten damit die Anreizstruktur des gesamten Konflikts: Wenn die Kernfrage keine Bedingung mehr ist, sinkt der Preis des Status quo für Israel weiter. Die saudisch-israelischen Normalisierungsgespräche (2023) wurden durch den 7. Oktober vorläufig ausgesetzt; die Architektur der Abkommen besteht jedoch fort."
+    "Die Abraham Accords bewiesen, dass Normalisierung ohne palästinensische Staatlichkeit möglich ist — und veränderten damit die Anreizstruktur des gesamten Konflikts: Wenn die Kernfrage keine Bedingung mehr ist, sinkt der Preis des Status quo für Israel weiter. Die saudisch-israelischen Normalisierungsgespräche (2023) wurden durch den 7. Oktober vorläufig ausgesetzt; die Architektur der Abkommen besteht jedoch fort.",
+    "Die Gegenleistungen waren präzise: Für die Normalisierung erhielten die Emirate die US-Zusage zur Prüfung des F-35-Exports, der Sudan wurde von der US-Terrorliste genommen, und die USA erkannten im Gegenzug für den marokkanischen Beitritt die marokkanische Souveränität über die Westsahara an — jeweils umstrittene Deals. Die palästinensische Autonomiebehörde sprach von einem Verrat an Jerusalem und an der Zwei-Staaten-Lösung. Die Abkommen überstanden den Gazakrieg 2023/24 weitgehend und blieben das Grundgerüst der 'Golf-Achse'; saudisch-israelische Normalisierungsgespräche wurden 2023 begonnen und nach dem 7. Oktober ausgesetzt, nicht beerdigt."
    ]
   },
   {
@@ -1298,7 +1352,8 @@
     {
      "name": "The Pegasus Project",
      "doc_id": "Forbidden Stories/Amnesty International (2021)",
-     "tier": "T3"
+     "tier": "T3",
+     "direct_url": "https://www.amnesty.org/en/latest/news/2021/07/the-pegasus-project/"
     }
    ],
    "doc_ref": "docs/05_cluster_c_sicherheitsapparat.md#nso-pegasus",
@@ -1306,7 +1361,8 @@
    "deep_analysis": [
     "Im Juli 2021 enthüllte das 'Pegasus Project' — ein Investigativverbund um Forbidden Stories und Amnesty International — Missbrauchsfälle der israelischen Spyware Pegasus des Unternehmens NSO Group: Die Software wurde gegen Journalisten, Menschenrechtsaktivisten und Oppositionelle in Dutzenden Staaten eingesetzt, darunter nachweislich auch gegen enge Vertraute des ermordeten saudischen Journalisten Jamal Khashoggi.",
     "Die Enthüllungen lösten einen Exportkontroll-Skandal aus: NSO exportiert nur mit israelischer Lizenz; die USA setzten NSO im November 2021 auf ihre Sanktionsliste, Apple verklagte das Unternehmen, mehrere Regierungen (Polen, Ungarn, Griechenland) gerieten wegen eigenen Pegasus-Einsatzes unter Druck. NSO bestritt die Vorwürfe teilweise und verweist auf vertragliche Endnutzerklauseln.",
-    "Für dieses Archiv relevant ist die präzise Einordnung: Pegasus/NSO ist ein dokumentierter Fall privatwirtschaftlicher Überwachungstechnologie unter israelischer Exportkontrolle — keine nachgewiesene Staatsoperation und kein Beleg für Verschwörungsnarrative über 'totale Überwachung'. Die Affäre zeigt dennoch, wie Cyber-Export zum außenpolitischen Instrument wird — ein eigener Sicherheitsapparat jenseits von Mossad und Shin Bet (Cluster C)."
+    "Für dieses Archiv relevant ist die präzise Einordnung: Pegasus/NSO ist ein dokumentierter Fall privatwirtschaftlicher Überwachungstechnologie unter israelischer Exportkontrolle — keine nachgewiesene Staatsoperation und kein Beleg für Verschwörungsnarrative über 'totale Überwachung'. Die Affäre zeigt dennoch, wie Cyber-Export zum außenpolitischen Instrument wird — ein eigener Sicherheitsapparat jenseits von Mossad und Shin Bet (Cluster C).",
+    "Die dokumentierten Einzelfälle sind konkret: Pegasus wurde nachweislich gegen enge Vertraute des ermordeten saudischen Journalisten Jamal Khashoggi eingesetzt, ferner gegen mexikanische Journalisten, indische Oppositionelle und polnische Politiker. Apple reichte im November 2021 Klage ein, die US-Regierung setzte NSO auf die Sanktionsliste (Commerce-Denial-Order); NSO verklagte seinerseits Apple und bestritt die Vorwürfe. In Israel löste die Affäre eine Grundsatzdebatte über die Lizenzpolitik des Verteidigungsministeriums aus — der Cyber-Export wurde als außenpolitisches Faustpfand neu gewichtet. Für Cluster C ist Pegasus der Beleg, dass der 'Sicherheitsapparat' heute weit über Mossad und Shin Bet hinausreicht."
    ]
   },
   {
@@ -1469,7 +1525,8 @@
    "deep_analysis": [
     "Im Januar 2024 entsiegelte das US-Bundesgericht (SDNY) im Verfahren Giuffre v. Maxwell rund 950 Seiten Prozessakten zum Epstein-Komplex: Zeugenaussagen, Flugprotokoll-Erwähnungen und Namenslisten. Die Medienberichterstattung (Guardian, CNBC, 3.1.2024) zählte ~150–200 genannte Personen — als Assoziierte, Bekannte oder Beschuldigte unterschiedlichster Intensität.",
     "Die juristische Präzision ist hier entscheidend: Die entsiegelten Dokumente enthalten Aussagen und Behauptungen, keine gerichtlichen Feststellungen von Straftaten gegen die genannten Drittpersonen. Ghislaine Maxwell wurde 2021 verurteilt, Epstein selbst starb 2019 in Haft vor seiner Verurteilung. Eine projektrelevante Verbindung der Akten zu israelischen Staatsstrukturen ist nicht belegt.",
-    "Das Archiv führt den Fall deshalb ausschließlich als Cluster-D-Eintrag: als Musterfall der Trennung von Aktenlage und Spekulation. Verschwörungsnarrative, die Epstein und Maxwell als Beleg für angebliche israelische 'Einflussnetzwerke' heranziehen, werden gemäß Projekt-SOUL verworfen — sie erfüllen die Verwerfungskriterien (fehlende Primärquellen, kein wissenschaftlicher Konsens) vollständig."
+    "Das Archiv führt den Fall deshalb ausschließlich als Cluster-D-Eintrag: als Musterfall der Trennung von Aktenlage und Spekulation. Verschwörungsnarrative, die Epstein und Maxwell als Beleg für angebliche israelische 'Einflussnetzwerke' heranziehen, werden gemäß Projekt-SOUL verworfen — sie erfüllen die Verwerfungskriterien (fehlende Primärquellen, kein wissenschaftlicher Konsens) vollständig.",
+    "Zur juristischen Verankerung: Ghislaine Maxwell wurde am 29. Dezember 2021 von einer New Yorker Jury in fünf Anklagepunkten schuldig gesprochen (u. a. Sexhandel Minderjähriger) und im Juni 2022 zu zwanzig Jahren Haft verurteilt; Jeffrey Epstein selbst war 2019 in Untersuchungshaft gestorben, bevor es zu einem Prozess kam. Umstritten bleibt der umstrittene Nicht-Strafverfolgungs-Deal von 2008 mit der Staatsanwaltschaft in Florida. Für dieses Archiv gilt: Alles, was über diese Gerichtsfakten hinaus behauptet wird, ist Spekulation — und gehört methodisch in Cluster D, nicht in die Chronologie."
    ]
   },
   {
@@ -1490,12 +1547,14 @@
     {
      "name": "UNGA ES-10/23",
      "doc_id": "A/RES/ES-10/23 (18.9.2024, UN Digital Library)",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://news.un.org/en/story/2024/09/1154391"
     },
     {
      "name": "IGH Advisory Opinion",
      "doc_id": "19.7.2024",
-     "tier": "T1"
+     "tier": "T1",
+     "direct_url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf"
     }
    ],
    "doc_ref": "docs/02_operationen_besatzung.md (Abschn. 1b) · docs/04_forschungsprotokoll.md §5",
@@ -1503,7 +1562,8 @@
    "deep_analysis": [
     "Die UN-Generalversammlung verabschiedete am 18. September 2024 in ihrer 10. Notstandssession die Resolution ES-10/23 (124:14:43): Gestützt auf das IGH-Gutachten vom 19. Juli 2024 fordert sie Israel auf, seine rechtswidrige Präsenz im besetzten palästinensischen Gebiet binnen zwölf Monaten zu beenden; Drittstaaten werden zu Nicht-Anerkennung, zum Verzicht auf Beihilfe und zu Sanktionen gegen die Siedlungswirtschaft verpflichtet.",
     "Die Resolution ist völkerrechtlich außergewöhnlich konkret: Sie übersetzt das Gutachten in einen fristgebundenen Handlungsauftrag und zählt operative Einzelpflichten für UN-Organe, Staaten und private Akteure auf. Der Gegenwind (14 Gegenstimmen, 43 Enthaltungen) zeigt die politische Spaltung — die Rechtswirkung des Gutachtens als autoritative Auslegung des Völkerrechts bleibt davon unberührt.",
-    "Mit Ablauf der Zwölf-Monats-Frist (September 2025) ohne israelische Umsetzung stellt sich die Folgefrage nach Durchsetzung: Sie ist Sache der Mitgliedstaaten (Sanktionen, Anerkennungsakte, ICC-Vollzug). ES-10/23 ist damit der aktuelle Endpunkt der völkerrechtlichen Linie dieses Archivs — von UNGA 181 (1947) über UNSC 242/338 bis zum IGH-Gesamtbefund 2024."
+    "Mit Ablauf der Zwölf-Monats-Frist (September 2025) ohne israelische Umsetzung stellt sich die Folgefrage nach Durchsetzung: Sie ist Sache der Mitgliedstaaten (Sanktionen, Anerkennungsakte, ICC-Vollzug). ES-10/23 ist damit der aktuelle Endpunkt der völkerrechtlichen Linie dieses Archivs — von UNGA 181 (1947) über UNSC 242/338 bis zum IGH-Gesamtbefund 2024.",
+    "Die Zwölf-Monats-Frist der Resolution verstrich am 18. September 2025 ohne israelische Umsetzung. Die Folgedebatte verlagerte sich auf die Drittstaaten-Pflichten: Waffenexportkontrollen, Kennzeichnung von Siedlungsprodukten, Aussetzung von Handels- und Kooperationsabkommen sowie die Anerkennungsakte einzelner Staaten für Palästina (2024/25 erkannten u. a. Irland, Norwegen und Spanien den Staat Palästina an). Die Resolution wirkt zudem als Maßstab in laufenden Verfahren — vom IGH-Genozidverfahren bis zu nationalen Klagen gegen Rüstungsexporte. Sie ist der bisher deutlichste Versuch, das Gutachten vom Juli 2024 operativ durchzusetzen."
    ]
   },
   {
@@ -1526,7 +1586,8 @@
      "name": "Klagekatalog",
      "doc_id": "docs/03",
      "url": "docs/03_klagekatalog_massaker.md",
-     "tier": "T2"
+     "tier": "T2",
+     "direct_url": "https://raw.githubusercontent.com/DarkSoulLeeHD/RoadMapHistory/main/docs/03_klagekatalog_massaker.md"
     }
    ],
    "doc_ref": "docs/03_klagekatalog_massaker.md",
@@ -1534,7 +1595,8 @@
    "deep_analysis": [
     "Als Cluster-D-Basisevent dokumentiert dieser Eintrag die quellenkritische Verifikationsarbeit des Projekts selbst: Eine auf Social Media kursierende Liste (@GEO_BRIEF) behauptete 54 'Massaker' zwischen 1937 und 2025. Jeder Eintrag wurde gegen Primär- und Standardliteratur geprüft.",
     "Das Ergebnis (docs/03): 9 Vorfälle sind als Massaker belegt (u. a. Deir Yassin, Qibya, Sabra/Schatila); 26 sind real, aber mit korrigierten Daten, Zahlen oder Bezeichnungen versehen (z. B. Balad al-Shaykh 1947/48 statt 1939, Haifa-Raffinerie mit jüdischen Opfern); 2 sind Doppelungen; 17 Einträge sind verworfen — darunter frei erfundene Vorfälle und solche mit verdrehter Täter-Opfer-Richtung.",
-    "Die Selektivitätsanalyse ergab zudem eine systematische Schlagseite der Liste: Massaker an jüdischen Zivilisten (Hebron 1929, Kfar Etzion 1948, Hadassah-Konvoi 1948) und an arabischen Bürgern Israels (Kafr Qasim 1956) fehlen vollständig. Der Eintrag belegt damit die Methodik des Archivs: Nicht die emotionale Empörung, sondern die Aktenlage entscheidet — einschließlich der Korrektur der eigenen Quellen."
+    "Die Selektivitätsanalyse ergab zudem eine systematische Schlagseite der Liste: Massaker an jüdischen Zivilisten (Hebron 1929, Kfar Etzion 1948, Hadassah-Konvoi 1948) und an arabischen Bürgern Israels (Kafr Qasim 1956) fehlen vollständig. Der Eintrag belegt damit die Methodik des Archivs: Nicht die emotionale Empörung, sondern die Aktenlage entscheidet — einschließlich der Korrektur der eigenen Quellen.",
+    "Die methodischen Verwerfungskriterien (docs/06) lauten: Anachronismen (Ereignisse am falschen Ort/zur falschen Zeit), Faktenverkehrung (vertauschte Täter-Opfer-Richtung), fehlende Primärquellen (kein einziger seriöser Beleg) und fehlender wissenschaftlicher Konsens. Zwei Beispiele: Der Eintrag 'Jerusalem 1967' wurde aktiv widerlegt — dokumentiert ist stattdessen der Abriss des Mughrabi-Viertels im Juni 1967; 'Qalunya 1948' erwies sich als frei erfunden. Die Transparenzliste ist damit kein Schönwetter-Kapitel, sondern der Beleg, dass dieses Archiv auch die eigenen Grundlagen korrigiert."
    ]
   }
  ]
